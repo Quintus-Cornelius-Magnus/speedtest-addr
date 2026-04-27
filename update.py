@@ -55,15 +55,21 @@ def fetch_nodes():
         except Exception as e:
             print(f"Failed to fetch {keyword}: {e}")
 
-    # Write Domain List
+# Write Domain List
     with open(DOMAIN_OUTPUT, "w", encoding="ascii") as f:
-        for d in sorted(list(domain_list)):
-            f.write(f"{d}\n")
+        if not domain_list:
+            f.write("placeholder.test\n")
+        else:
+            for d in sorted(list(domain_list)):
+                f.write(f"{d}\n")
 
     # Write IP CIDR List
     with open(IP_OUTPUT, "w", encoding="ascii") as f:
-        for ip in sorted(list(ip_list)):
-            f.write(f"{ip}\n")
+        if not ip_list:
+            f.write("198.51.100.1/32\n")
+        else:
+            for ip in sorted(list(ip_list)):
+                f.write(f"{ip}\n")
 
     print(f"Update completed. Domains: {len(domain_list)}, IPs: {len(ip_list)}.")
 
