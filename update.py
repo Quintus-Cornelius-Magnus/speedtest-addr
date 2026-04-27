@@ -46,11 +46,17 @@ def fetch_nodes():
                         if host_with_port:
                             # Strip port number
                             host = host_with_port.split(':')[0].lower()
+                            
                             if is_ip(host):
                                 ip_list.add(f"{host}/32")
                             else:
                                 domain_list.add(host)
-                            count += 1
+                                ookla_suffix = ".prod.hosts.ooklaserver.net"
+                                if host.endswith(ookla_suffix):
+                                    base_domain = host[:-len(ookla_suffix)]
+                                    domain_list.add(base_domain)
+                                    if is_ip(base_domain):
+                                        ip_list.add(f"{base_domain}/32")
                 print(f"Added {count} nodes for {target_cc}.")
         except Exception as e:
             print(f"Failed to fetch {keyword}: {e}")
