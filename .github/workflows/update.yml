@@ -1,0 +1,32 @@
+name: Speedtest Rules Auto-Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install requests library
+        run: pip install requests
+
+      - name: Execute update script
+        run: python update.py
+
+      - name: Deploy updated rules
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add speedtest_domain.list speedtest_ipcidr.list
+          git commit -m "chore: auto-update rules $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || exit 0
+          git push
