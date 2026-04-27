@@ -1,0 +1,10 @@
+{
+  "targets": [
+    {"keyword": "Hong Kong", "cc": "HK"},
+    {"keyword": "Japan", "cc": "JP"},
+    {"keyword": "Singapore", "cc": "SG"},
+    {"keyword": "United States", "cc": "US"},
+    {"keyword": "United Kingdom", "cc": "GB"},
+    {"keyword": "Germany", "cc": "DE"}
+  ]
+}
