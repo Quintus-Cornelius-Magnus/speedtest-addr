@@ -1,10 +1,21 @@
 {
   "targets": [
     {"keyword": "Hong Kong", "cc": "HK"},
-    {"keyword": "Japan", "cc": "JP"},
+    {"keyword": "Kowloon", "cc": "HK"},
+    
+    {"keyword": "Tokyo", "cc": "JP"},
+    {"keyword": "Osaka", "cc": "JP"},
+    
     {"keyword": "Singapore", "cc": "SG"},
-    {"keyword": "United States", "cc": "US"},
-    {"keyword": "United Kingdom", "cc": "GB"},
-    {"keyword": "Germany", "cc": "DE"}
+    
+    {"keyword": "Los Angeles", "cc": "US"},
+    {"keyword": "San Jose", "cc": "US"},
+    {"keyword": "Seattle", "cc": "US"},
+    {"keyword": "New York", "cc": "US"},
+    {"keyword": "Chicago", "cc": "US"},
+    {"keyword": "Miami", "cc": "US"},
+    
+    {"keyword": "London", "cc": "GB"},
+    {"keyword": "Frankfurt", "cc": "DE"}
   ]
 }
