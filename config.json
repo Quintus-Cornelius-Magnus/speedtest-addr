@@ -8,14 +8,37 @@
     
     {"keyword": "Singapore", "cc": "SG"},
     
-    {"keyword": "Los Angeles", "cc": "US"},
-    {"keyword": "San Jose", "cc": "US"},
-    {"keyword": "Seattle", "cc": "US"},
-    {"keyword": "New York", "cc": "US"},
-    {"keyword": "Chicago", "cc": "US"},
-    {"keyword": "Miami", "cc": "US"},
-    
     {"keyword": "London", "cc": "GB"},
-    {"keyword": "Frankfurt", "cc": "DE"}
+    {"keyword": "Frankfurt", "cc": "DE"},
+
+    // --- (West Coast) ---
+    {"keyword": "Los Angeles", "cc": "US"},
+    {"keyword": "Monrovia", "cc": "US"},
+    {"keyword": "San Jose", "cc": "US"},
+    {"keyword": "San Francisco", "cc": "US"},
+    {"keyword": "Seattle", "cc": "US"},
+    {"keyword": "Portland", "cc": "US"},
+    {"keyword": "Las Vegas", "cc": "US"},
+    {"keyword": "Phoenix", "cc": "US"},
+    
+    // --- (Central & South) ---
+    {"keyword": "Dallas", "cc": "US"},
+    {"keyword": "Houston", "cc": "US"},
+    {"keyword": "Austin", "cc": "US"},
+    {"keyword": "Omaha", "cc": "US"},
+    {"keyword": "Chicago", "cc": "US"},
+    {"keyword": "Denver", "cc": "US"},
+    {"keyword": "Kansas City", "cc": "US"},
+    {"keyword": "Minneapolis", "cc": "US"},
+    
+    // --- (East Coast) ---
+    {"keyword": "New York", "cc": "US"},
+    {"keyword": "Ashburn", "cc": "US"},
+    {"keyword": "Washington", "cc": "US"},
+    {"keyword": "Philadelphia", "cc": "US"},
+    {"keyword": "Boston", "cc": "US"},
+    {"keyword": "Miami", "cc": "US"},
+    {"keyword": "Atlanta", "cc": "US"},
+    {"keyword": "Charlotte", "cc": "US"}
   ]
 }
