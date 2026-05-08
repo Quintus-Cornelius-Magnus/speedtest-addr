@@ -11,7 +11,6 @@
     {"keyword": "London", "cc": "GB"},
     {"keyword": "Frankfurt", "cc": "DE"},
 
-    // --- (West Coast) ---
     {"keyword": "Los Angeles", "cc": "US"},
     {"keyword": "Monrovia", "cc": "US"},
     {"keyword": "San Jose", "cc": "US"},
@@ -21,7 +20,6 @@
     {"keyword": "Las Vegas", "cc": "US"},
     {"keyword": "Phoenix", "cc": "US"},
     
-    // --- (Central & South) ---
     {"keyword": "Dallas", "cc": "US"},
     {"keyword": "Houston", "cc": "US"},
     {"keyword": "Austin", "cc": "US"},
@@ -31,7 +29,6 @@
     {"keyword": "Kansas City", "cc": "US"},
     {"keyword": "Minneapolis", "cc": "US"},
     
-    // --- (East Coast) ---
     {"keyword": "New York", "cc": "US"},
     {"keyword": "Ashburn", "cc": "US"},
     {"keyword": "Washington", "cc": "US"},
