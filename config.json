@@ -26,8 +26,12 @@
     {"keyword": "Omaha", "cc": "US"},
     {"keyword": "Chicago", "cc": "US"},
     {"keyword": "Denver", "cc": "US"},
-    {"keyword": "Kansas", "cc": "US"},
+    {"keyword": "Kansas City", "cc": "US"},
     {"keyword": "Minneapolis", "cc": "US"},
+    {"keyword": "Wichita", "cc": "US"},
+    {"keyword": "Wellington", "cc": "US"},
+    {"keyword": "McPherson", "cc": "US"},
+    {"keyword": "Galva", "cc": "US"},
 
     {"keyword": "New York", "cc": "US"},
     {"keyword": "Ashburn", "cc": "US"},
