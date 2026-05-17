@@ -109,8 +109,6 @@ hk-bgp-speedtest.nearoute.io
 hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
 hk.mymonitor.space
-hk01.bigball.top
-hk01.bigball.top.prod.hosts.ooklaserver.net
 hk1.speedtest.gslnetworks.com
 hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 hkg.02.speedtest.kansuiun.com
@@ -136,7 +134,6 @@ iad-eqx10-ookla-1.99.network.prod.hosts.ooklaserver.net
 iad10.speedtest.gslnetworks.com
 iad10.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 iola-st-ookla.kwikom.com
-ipl3pt.fft.ops.eu.uu.net
 ixn.lon.uk.speedtest.faelix.net
 jamestown.speedtest.windstream.net
 jp-nperf.verizon.net
@@ -190,6 +187,7 @@ lon.speedtest.clouvider.net.prod.hosts.ooklaserver.net
 londres.speedtest.angolacables.co.ao
 londres.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
 los-angeles-speedtest.reliablesite.net
+los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net
 losangeles.ca.speedtest.frontier.com
 losangeles.speedtest.angolacables.co.ao
 losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
@@ -300,6 +298,8 @@ phl01.screenshot.download
 phl01.screenshot.download.prod.hosts.ooklaserver.net
 phlph0001speedtestserver02.wiline.com
 phlph0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
+phmazook.speedtest.sbcglobal.net
+phmazook.speedtest.sbcglobal.net.prod.hosts.ooklaserver.net
 phoenix.speedtest.centurylink.net
 phoenix1.cabospeed.com
 phoenixim-speedtest.commnetbroadband.com
@@ -492,7 +492,6 @@ speedtest-miami.grupogtd.com.prod.hosts.ooklaserver.net
 speedtest-net-fra.dispaisy.systems
 speedtest-net-fra.dispaisy.systems.prod.hosts.ooklaserver.net
 speedtest-net.mk.de
-speedtest-ntt-fra.as20011.net
 speedtest-ookla-alpha.giant.net.uk
 speedtest-p-0.infra.xytel.net
 speedtest-p-0.infra.xytel.net.prod.hosts.ooklaserver.net
@@ -638,7 +637,6 @@ speedtest.gsu.edu.prod.hosts.ooklaserver.net
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
-speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.iad01.wdc.pilotfiber.com
@@ -757,8 +755,6 @@ speedtest.serverpronto.com
 speedtest.serverpronto.com.prod.hosts.ooklaserver.net
 speedtest.sg.hsp.net.id
 speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net
-speedtest.singapore.globalxtreme.net
-speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net
 speedtest.singnet.com.sg
 speedtest.sjc.sonic.net
 speedtest.slic.com
@@ -991,9 +987,11 @@ txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
 ty-bgp-speedtest.nearoute.io
 ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 ty8.speedtest.gslnetworks.com
+ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 tyo.speedtest.contabo.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
+ukms-speedtest.tropicalgames.net
 us-iad01.speed.misaka.one
 us-lax02.speed.misaka.one
 us-sjc10.speed.misaka.one
