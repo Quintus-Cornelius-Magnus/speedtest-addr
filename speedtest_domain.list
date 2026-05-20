@@ -141,6 +141,8 @@ ixn.lon.uk.speedtest.faelix.net
 jamestown.speedtest.windstream.net
 jp-nperf.verizon.net
 jp-nperf.verizon.net.prod.hosts.ooklaserver.net
+jp.speedtest.bug.pw
+jp.speedtest.bug.pw.prod.hosts.ooklaserver.net
 kami.smartone.com
 kami.smartone.com.prod.hosts.ooklaserver.net
 kansas-city.speedtest.brightspeed.com
@@ -230,6 +232,8 @@ nycny-speedtest-ookla-01.st.charter.com
 oak-speedtest.otelco.com
 oak-speedtest.otelco.com.prod.hosts.ooklaserver.net
 omaha.speedtest.centurylink.net
+omaha.speedtest.fiberfirst.com
+omaha.speedtest.fiberfirst.com.prod.hosts.ooklaserver.net
 ony.speedtest.contabo.net
 ook511.prtel.net
 ook511.prtel.net.prod.hosts.ooklaserver.net
@@ -398,8 +402,6 @@ speed1.minneapolis.intrepidfiber.com
 speed1.minneapolis.intrepidfiber.com.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
-speed12.gonetspeed.com
-speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
 speedgauge2.optonline.net
 speedgauge2.optonline.net.prod.hosts.ooklaserver.net
@@ -555,8 +557,6 @@ speedtest.atl1.jmfnetworks.net
 speedtest.atl1.jmfnetworks.net.prod.hosts.ooklaserver.net
 speedtest.atln.ga.wtsky.net
 speedtest.atln.ga.wtsky.net.prod.hosts.ooklaserver.net
-speedtest.axclusive.com.sg
-speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net
 speedtest.battern.eu
 speedtest.battern.eu.prod.hosts.ooklaserver.net
 speedtest.bkfiber.com
@@ -625,6 +625,7 @@ speedtest.gsu.edu.prod.hosts.ooklaserver.net
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
+speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.iad01.wdc.pilotfiber.com
@@ -717,8 +718,6 @@ speedtest.phx01.orion.cloud.prod.hosts.ooklaserver.net
 speedtest.pilotfiber.com
 speedtest.pilotfiber.com.prod.hosts.ooklaserver.net
 speedtest.pingless.com
-speedtest.plasmanodes.com
-speedtest.plasmanodes.com.prod.hosts.ooklaserver.net
 speedtest.pocketinet.com
 speedtest.pslightwave.com
 speedtest.pslightwave.com.prod.hosts.ooklaserver.net
@@ -845,12 +844,8 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
-speedtest10.vqbn.com
-speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
 speedtest10g.atl.as13760.net.prod.hosts.ooklaserver.net
-speedtest120.dal1.tx.hostedbackbone.net
-speedtest120.dal1.tx.hostedbackbone.net.prod.hosts.ooklaserver.net
 speedtest14.point-broadband.com
 speedtest14.point-broadband.com.prod.hosts.ooklaserver.net
 speedtest1c.hkix.net
