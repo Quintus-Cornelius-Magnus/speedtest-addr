@@ -88,7 +88,6 @@ dfw-1.speedtest.ozarksgo.net
 dfw-1.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net
 dfw-eqx11-ookla-1.99.network
 dfw-eqx11-ookla-1.99.network.prod.hosts.ooklaserver.net
-dllstx-ookla1.vyvebroadband.net
 dlstxook.speedtest.sbcglobal.net
 dlstxook.speedtest.sbcglobal.net.prod.hosts.ooklaserver.net
 dnvrco-ookla1.vyvebroadband.net
@@ -136,13 +135,10 @@ iad-eqx10-ookla-1.99.network.prod.hosts.ooklaserver.net
 iad10.speedtest.gslnetworks.com
 iad10.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 iola-st-ookla.kwikom.com
-ipl3pt.fft.ops.eu.uu.net
 ixn.lon.uk.speedtest.faelix.net
 jamestown.speedtest.windstream.net
 jp-nperf.verizon.net
 jp-nperf.verizon.net.prod.hosts.ooklaserver.net
-jp.speedtest.bug.pw
-jp.speedtest.bug.pw.prod.hosts.ooklaserver.net
 kami.smartone.com
 kami.smartone.com.prod.hosts.ooklaserver.net
 kansas-city.speedtest.brightspeed.com
@@ -243,8 +239,6 @@ ookla-dfw.gigsouth.com
 ookla-dfw.gigsouth.com.prod.hosts.ooklaserver.net
 ookla-ks.mercuryfiber.com
 ookla-ks.mercuryfiber.com.prod.hosts.ooklaserver.net
-ookla-mia.gigsouth.com
-ookla-mia.gigsouth.com.prod.hosts.ooklaserver.net
 ookla-speedtest-central.hgconair.hgc.com.hk
 ookla.a56.as6453.net
 ookla.a56.as6453.net.prod.hosts.ooklaserver.net
@@ -383,8 +377,6 @@ speed.golddata.net.prod.hosts.ooklaserver.net
 speed.hcmed.org
 speed.hcmed.org.prod.hosts.ooklaserver.net
 speed.kansas.smishcraft.com
-speed.lax-1.serverforge.org
-speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net
 speed.udx.icscoe.jp
 speed.uk.lon.m247.ro
 speed.uk.lon.m247.ro.prod.hosts.ooklaserver.net
@@ -402,6 +394,8 @@ speed1.minneapolis.intrepidfiber.com
 speed1.minneapolis.intrepidfiber.com.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
+speed12.gonetspeed.com
+speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
 speedgauge2.optonline.net
 speedgauge2.optonline.net.prod.hosts.ooklaserver.net
@@ -744,7 +738,6 @@ speedtest.sg.hsp.net.id
 speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net
 speedtest.singapore.globalxtreme.net
 speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net
-speedtest.singnet.com.sg
 speedtest.sjc.sonic.net
 speedtest.slic.com
 speedtest.slic.com.prod.hosts.ooklaserver.net
@@ -844,6 +837,8 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
+speedtest10.vqbn.com
+speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
 speedtest10g.atl.as13760.net.prod.hosts.ooklaserver.net
 speedtest14.point-broadband.com
