@@ -207,7 +207,6 @@ mia.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 miami-speedtest.reliablesite.net
 miami-speedtest.reliablesite.net.prod.hosts.ooklaserver.net
 miami.fl.speedtest.frontier.com
-miami.getstreamhosting.com
 miami.speedtest.angolacables.co.ao
 miami.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
 miaspeedtest.blackburn-pr.com
@@ -531,6 +530,8 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
+speedtest.absolutevalidation.com
+speedtest.absolutevalidation.com.prod.hosts.ooklaserver.net
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -610,7 +611,6 @@ speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.frankfurt-am-main.valtrix.org
 speedtest.frantic.link
 speedtest.frantic.link.prod.hosts.ooklaserver.net
-speedtest.getstreamhosting.com
 speedtest.gigabeaminternet.com
 speedtest.gigabeaminternet.com.prod.hosts.ooklaserver.net
 speedtest.gilarivertel.com
@@ -839,6 +839,8 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
+speedtest10.vqbn.com
+speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
 speedtest10g.atl.as13760.net.prod.hosts.ooklaserver.net
 speedtest14.point-broadband.com
