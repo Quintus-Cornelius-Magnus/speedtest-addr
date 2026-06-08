@@ -161,7 +161,6 @@ las-vegas.speedtest.centurylink.net
 lasvegas-speedtest.commnetbroadband.com
 lasvegas-speedtest.commnetbroadband.com.prod.hosts.ooklaserver.net
 lax-cos2-ookla-1.99.network
-lax-cos2-ookla-1.99.network.prod.hosts.ooklaserver.net
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
@@ -394,6 +393,8 @@ speed09.gonetspeed.com
 speed09.gonetspeed.com.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
+speed12.gonetspeed.com
+speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
 speedgauge2.optonline.net
 speedgauge2.optonline.net.prod.hosts.ooklaserver.net
@@ -457,8 +458,6 @@ speedtest-lon.retn.net.prod.hosts.ooklaserver.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-lon06.vorboss.net.prod.hosts.ooklaserver.net
-speedtest-lon1.elite.net.uk
-speedtest-lon1.elite.net.uk.prod.hosts.ooklaserver.net
 speedtest-london-east.vodafone.co.uk
 speedtest-london-east.vodafone.co.uk.prod.hosts.ooklaserver.net
 speedtest-london.its-tg.net
@@ -743,7 +742,6 @@ speedtest.us-at.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-ch.kamatera.com
 speedtest.us-ch.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-la.kamatera.com
-speedtest.us-la.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-mi2.kamatera.com
 speedtest.us-mi2.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-se.kamatera.com
@@ -814,8 +812,6 @@ speedtest14.point-broadband.com
 speedtest14.point-broadband.com.prod.hosts.ooklaserver.net
 speedtest1c.hkix.net
 speedtest1c.hkix.net.prod.hosts.ooklaserver.net
-speedtest2-evrtwaxa.as20055.net
-speedtest2-evrtwaxa.as20055.net.prod.hosts.ooklaserver.net
 speedtest2-kc.kanren.net
 speedtest2-kc.kanren.net.prod.hosts.ooklaserver.net
 speedtest2.lightningfibre.net.uk
@@ -890,7 +886,6 @@ st01.fynncloud.net
 st01.fynncloud.net.prod.hosts.ooklaserver.net
 st1.tzulo.com
 st2.octopustelecom.co.uk
-st2.octopustelecom.co.uk.prod.hosts.ooklaserver.net
 stchi.highlinefast.com
 stchi.highlinefast.com.prod.hosts.ooklaserver.net
 stdal.highlinefast.com
