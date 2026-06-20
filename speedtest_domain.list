@@ -77,6 +77,8 @@ den-speedtest.net.sangoma.net.prod.hosts.ooklaserver.net
 den11-speedtest01.as15108.com
 dende0004speedtestserver01.wiline.com
 dende0004speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
+denver-speedtest.commnetbroadband.com
+denver-speedtest.commnetbroadband.com.prod.hosts.ooklaserver.net
 denver.speed.vcn.com
 denver.speed.vcn.com.prod.hosts.ooklaserver.net
 denver.speedtest.centurylink.net
@@ -151,6 +153,8 @@ la02.speedtest.windstream.net
 la2.speedtest.gslnetworks.com
 la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 las-vegas.speedtest.centurylink.net
+lasvegas-speedtest.commnetbroadband.com
+lasvegas-speedtest.commnetbroadband.com.prod.hosts.ooklaserver.net
 lax-cos2-ookla-1.99.network
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
@@ -200,6 +204,8 @@ miami.fl.speedtest.frontier.com
 miami.getstreamhosting.com
 miami.speedtest.angolacables.co.ao
 miami.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
+miaspeedtest.blackburn-pr.com
+miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
 mtcspeedtest.catskill.net
 mtcspeedtest.catskill.net.prod.hosts.ooklaserver.net
@@ -224,6 +230,8 @@ ook511.prtel.net
 ook511.prtel.net.prod.hosts.ooklaserver.net
 ookla-atl.gigsouth.com
 ookla-atl.gigsouth.com.prod.hosts.ooklaserver.net
+ookla-dfw.gigsouth.com
+ookla-dfw.gigsouth.com.prod.hosts.ooklaserver.net
 ookla-ks.mercuryfiber.com
 ookla-ks.mercuryfiber.com.prod.hosts.ooklaserver.net
 ookla-mia.gigsouth.com
@@ -261,6 +269,8 @@ ookla.ncwcom.com
 ookla.ncwcom.com.prod.hosts.ooklaserver.net
 ookla.opticaltel.com
 ookla.opticaltel.com.prod.hosts.ooklaserver.net
+ookla.rbn.gr
+ookla.rbn.gr.prod.hosts.ooklaserver.net
 ookla.svw.as6453.net
 ookla.svw.as6453.net.prod.hosts.ooklaserver.net
 ookla.unwiredltd.com
@@ -325,6 +335,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -493,6 +504,8 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
+speedtest.accessfiber.net
+speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
 speedtest.advancedisp.com.prod.hosts.ooklaserver.net
 speedtest.aquiss.net
@@ -551,7 +564,6 @@ speedtest.den1.nitelusa.net.prod.hosts.ooklaserver.net
 speedtest.desertwinds.net
 speedtest.desertwinds.net.prod.hosts.ooklaserver.net
 speedtest.dfw1.sonic.net
-speedtest.dllstx97.metronetinc.com
 speedtest.dnvrco26.metronetinc.com
 speedtest.dnvrco26.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.eu-fr.kamatera.com
