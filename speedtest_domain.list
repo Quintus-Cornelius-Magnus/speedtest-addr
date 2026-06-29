@@ -31,7 +31,6 @@ backbone.pdx.fiberfi.net.prod.hosts.ooklaserver.net
 bassoon-sg-1.violin.co.th
 ch1.speedtest.gslnetworks.com
 ch1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
-charlotte02.speedtest.windstream.net
 chcg.ookla.surfinternet.com
 chcg.ookla.surfinternet.com.prod.hosts.ooklaserver.net
 chi-speedtest.net.sangoma.net
@@ -40,6 +39,7 @@ chi-speedtest.shifthosting.com
 chi-speedtest.shifthosting.com.prod.hosts.ooklaserver.net
 chi.speedtest.clouvider.net
 chi.speedtest.clouvider.net.prod.hosts.ooklaserver.net
+chicago.il.speedtest.frontier.com
 chicago.speedtest.brightspeed.com
 chicago02.speedtest.windstream.net
 chicago1.cabospeed.com
@@ -47,7 +47,6 @@ chich0003ooklaspeedtestserver01.wiline.com
 chich0003ooklaspeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 chspeed.shawnee.com
 chspeed.shawnee.com.prod.hosts.ooklaserver.net
-chvl-speedtest-02.brightspeed.com
 csl.hkspeedtest.com
 csl.hkspeedtest.com.prod.hosts.ooklaserver.net
 cwf-speedtest-se.clearwave.com
@@ -219,9 +218,9 @@ ookla-dfw.gigsouth.com
 ookla-dfw.gigsouth.com.prod.hosts.ooklaserver.net
 ookla-ks.mercuryfiber.com
 ookla-ks.mercuryfiber.com.prod.hosts.ooklaserver.net
+ookla-london01.tropicalgames.net
 ookla-mia.gigsouth.com
 ookla-mia.gigsouth.com.prod.hosts.ooklaserver.net
-ookla-speedtest-central.hgconair.hgc.com.hk
 ookla.a56.as6453.net
 ookla.a56.as6453.net.prod.hosts.ooklaserver.net
 ookla.aeq.as6453.net
@@ -377,6 +376,8 @@ speed09.gonetspeed.com
 speed09.gonetspeed.com.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
+speed12.gonetspeed.com
+speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
 speedgauge2.optonline.net
 speedgauge2.optonline.net.prod.hosts.ooklaserver.net
@@ -682,8 +683,6 @@ speedtest.rfchost.net
 speedtest.rfchost.net.prod.hosts.ooklaserver.net
 speedtest.rfnfiber.com
 speedtest.rfnfiber.com.prod.hosts.ooklaserver.net
-speedtest.ripplefiber.com
-speedtest.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest.rit.edu
 speedtest.rit.edu.prod.hosts.ooklaserver.net
 speedtest.rochestercolo.com
