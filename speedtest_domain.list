@@ -2,6 +2,8 @@
 1010.hkspeedtest.com.prod.hosts.ooklaserver.net
 ab-thn-ookla01.air-band.net
 ab-thn-ookla01.air-band.net.prod.hosts.ooklaserver.net
+albynynp-ookla01.gonetspeed.com
+albynynp-ookla01.gonetspeed.com.prod.hosts.ooklaserver.net
 armageddon.uvensys.de
 asbn-speedtest.northstate.net
 asbn-speedtest.northstate.net.prod.hosts.ooklaserver.net
@@ -31,6 +33,7 @@ backbone.pdx.fiberfi.net.prod.hosts.ooklaserver.net
 bassoon-sg-1.violin.co.th
 ch1.speedtest.gslnetworks.com
 ch1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
+charlotte02.speedtest.windstream.net
 chcg.ookla.surfinternet.com
 chcg.ookla.surfinternet.com.prod.hosts.ooklaserver.net
 chi-speedtest.net.sangoma.net
@@ -47,6 +50,7 @@ chich0003ooklaspeedtestserver01.wiline.com
 chich0003ooklaspeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 chspeed.shawnee.com
 chspeed.shawnee.com.prod.hosts.ooklaserver.net
+chvl-speedtest-02.brightspeed.com
 csl.hkspeedtest.com
 csl.hkspeedtest.com.prod.hosts.ooklaserver.net
 cwf-speedtest-se.clearwave.com
@@ -221,6 +225,7 @@ ookla-ks.mercuryfiber.com.prod.hosts.ooklaserver.net
 ookla-london01.tropicalgames.net
 ookla-mia.gigsouth.com
 ookla-mia.gigsouth.com.prod.hosts.ooklaserver.net
+ookla-speedtest.hgconair.hgc.com.hk
 ookla.a56.as6453.net
 ookla.a56.as6453.net.prod.hosts.ooklaserver.net
 ookla.aeq.as6453.net
@@ -332,6 +337,7 @@ sin.speedtest.contabo.net
 sj2caook.speedtest.sbcglobal.net
 sj2caook.speedtest.sbcglobal.net.prod.hosts.ooklaserver.net
 sosimhk.datapath.three.com.hk
+sp-chi-01.ezeefiber.net
 sp-datb-01.ezeefiber.net
 sp-hou2-01.tachus.com
 sp-hou2-01.tachus.com.prod.hosts.ooklaserver.net
@@ -526,6 +532,8 @@ speedtest.battern.eu
 speedtest.battern.eu.prod.hosts.ooklaserver.net
 speedtest.bnsdfw.com
 speedtest.bnsdfw.com.prod.hosts.ooklaserver.net
+speedtest.brightstar.cloud
+speedtest.brightstar.cloud.prod.hosts.ooklaserver.net
 speedtest.brsk.co.uk
 speedtest.cadence.net.uk
 speedtest.cadence.net.uk.prod.hosts.ooklaserver.net
@@ -584,7 +592,6 @@ speedtest.gsu.edu.prod.hosts.ooklaserver.net
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
-speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.iad01.wdc.pilotfiber.com
@@ -683,6 +690,8 @@ speedtest.rfchost.net
 speedtest.rfchost.net.prod.hosts.ooklaserver.net
 speedtest.rfnfiber.com
 speedtest.rfnfiber.com.prod.hosts.ooklaserver.net
+speedtest.ripplefiber.com
+speedtest.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest.rit.edu
 speedtest.rit.edu.prod.hosts.ooklaserver.net
 speedtest.rochestercolo.com
@@ -738,7 +747,6 @@ speedtest.us-tx.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us.mirhosting.net
 speedtest.us.mirhosting.net.prod.hosts.ooklaserver.net
 speedtest.us.openinfra.com
-speedtest.us.openinfra.com.prod.hosts.ooklaserver.net
 speedtest.usinternet.com
 speedtest.usinternet.com.prod.hosts.ooklaserver.net
 speedtest.versonetworks.net
@@ -782,6 +790,8 @@ speedtest03.srv.whplny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net.prod.hosts.ooklaserver.net
 speedtest1-bothwaxb.as20055.net
 speedtest1-bothwaxb.as20055.net.prod.hosts.ooklaserver.net
+speedtest1-knwcwaxa.as20055.net
+speedtest1-knwcwaxa.as20055.net.prod.hosts.ooklaserver.net
 speedtest1-sttlwawb.as20055.net
 speedtest1-sttlwawb.as20055.net.prod.hosts.ooklaserver.net
 speedtest1.acentek.net
