@@ -95,7 +95,6 @@ dpac-la.guam.net
 ds19.vipconnect.mx
 ds19.vipconnect.mx.prod.hosts.ooklaserver.net
 ewr-csq2-ookla-1.99.network
-ewr-csq2-ookla-1.99.network.prod.hosts.ooklaserver.net
 fast.rockisland.net
 fast.rockisland.net.prod.hosts.ooklaserver.net
 ffm.wsqm.telekom-dienste.de
@@ -122,8 +121,6 @@ hkt.hkspeedtest.com
 hkt.hkspeedtest.com.prod.hosts.ooklaserver.net
 hkthspeedtest02.telstraglobal.net
 hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net
-hoshiyomi.ratatoskr.org
-hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
 houho0001speedtestserver01.wiline.com
 houho0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 houston.speedtest.brightspeed.com
@@ -360,7 +357,6 @@ spdookla10g.noanet.net
 spdookla10g.noanet.net.prod.hosts.ooklaserver.net
 spdookla10g0201.noanet.net
 spdookla10g0201.noanet.net.prod.hosts.ooklaserver.net
-speed-server3.summit-broadband.com
 speed-test.ukservers.com
 speed-test.ukservers.com.prod.hosts.ooklaserver.net
 speed.golddata.net
@@ -380,6 +376,8 @@ speed08.gonetspeed.com
 speed08.gonetspeed.com.prod.hosts.ooklaserver.net
 speed09.gonetspeed.com
 speed09.gonetspeed.com.prod.hosts.ooklaserver.net
+speed1.airtek.com.ve
+speed1.airtek.com.ve.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
 speed12.gonetspeed.com
@@ -592,6 +590,7 @@ speedtest.gsu.edu.prod.hosts.ooklaserver.net
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
+speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.iad01.wdc.pilotfiber.com
