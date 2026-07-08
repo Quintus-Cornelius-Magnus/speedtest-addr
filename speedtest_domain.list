@@ -141,7 +141,6 @@ jp-nperf.verizon.net
 jp-nperf.verizon.net.prod.hosts.ooklaserver.net
 kami.smartone.com
 kami.smartone.com.prod.hosts.ooklaserver.net
-kansas-city.speedtest.brightspeed.com
 kansascity1.cabospeed.com
 ksc11-speedtest01.as15108.com
 kscy.speedtest.fastwyre.com
@@ -156,7 +155,6 @@ la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 las-vegas.speedtest.centurylink.net
 lasvegas-speedtest.commnetbroadband.com
 lasvegas-speedtest.commnetbroadband.com.prod.hosts.ooklaserver.net
-lax-cos2-ookla-1.99.network
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
@@ -196,6 +194,8 @@ miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
 mtcspeedtest.catskill.net
 mtcspeedtest.catskill.net.prod.hosts.ooklaserver.net
+net-ookla-dc.p.foundation
+net-ookla-dc.p.foundation.prod.hosts.ooklaserver.net
 netspeed.empireaccess.com
 netspeed.empireaccess.com.prod.hosts.ooklaserver.net
 newyork02.speedtest.windstream.net
@@ -323,8 +323,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
-sg1-sg.lg.skylineconnect.io
-sg1-sg.lg.skylineconnect.io.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -742,7 +741,6 @@ speedtest.us-se.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-tx.kamatera.com
 speedtest.us-tx.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us.mirhosting.net
-speedtest.us.mirhosting.net.prod.hosts.ooklaserver.net
 speedtest.us.openinfra.com
 speedtest.usinternet.com
 speedtest.usinternet.com.prod.hosts.ooklaserver.net
@@ -805,6 +803,8 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
+speedtest10.vqbn.com
+speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.ash.as13760.net
 speedtest10g.ash.as13760.net.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
@@ -836,7 +836,6 @@ speedtest21.hkbn.net
 speedtest21.hkbn.net.prod.hosts.ooklaserver.net
 speedtest3.dacor.de
 speedtest3.dal.nxlink.com
-speedtest5.fybercom.net
 speedtest9200.sea.acsalaska.net
 speedtestatl.gethotwired.com
 speedtestatl.gethotwired.com.prod.hosts.ooklaserver.net
@@ -934,6 +933,7 @@ test.vipconnect.mx.prod.hosts.ooklaserver.net
 thn.speedtest.gslnetworks.com
 thn.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 txda.speedtest.pavlovmedia.net
+txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
