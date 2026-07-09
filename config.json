@@ -10,6 +10,7 @@
 
     {"keyword": "London", "cc": "GB"},
     {"keyword": "Frankfurt", "cc": "DE"},
+    {"keyword": "Amsterdam", "cc": "NL"},
 
     {"keyword": "Los Angeles", "cc": "US"},
     {"keyword": "Monrovia", "cc": "US"},
