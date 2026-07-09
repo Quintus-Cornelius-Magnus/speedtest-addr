@@ -1,7 +1,10 @@
-import requests
 import json
-import re
 import os
+import socket
+import ipaddress
+import urllib.parse
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configuration file path
 CONFIG_FILE = 'config.json'
@@ -10,7 +13,45 @@ IP_OUTPUT = 'speedtest_ipcidr.list'
 
 def is_ip(address):
     """Check if the string is a valid IPv4 address."""
-    return re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", address) is not None
+    try:
+        return ipaddress.ip_address(address).version == 4
+    except ValueError:
+        return False
+
+def add_ip(ip_list, address):
+    ip = ipaddress.ip_address(address)
+    ip_list.add(f"{ip}/{32 if ip.version == 4 else 128}")
+
+def resolve_domains(domain_list, ip_list):
+    domains = sorted(domain_list)
+    resolved = 0
+    failed = 0
+
+    if not domains:
+        print("Resolved domains: 0, failed: 0.")
+        return
+
+    def lookup(domain):
+        try:
+            return {
+                info[4][0]
+                for info in socket.getaddrinfo(domain, None, proto=socket.IPPROTO_TCP)
+            }
+        except socket.gaierror:
+            return set()
+
+    with ThreadPoolExecutor(max_workers=min(32, len(domains))) as executor:
+        futures = {executor.submit(lookup, domain): domain for domain in domains}
+        for future in as_completed(futures):
+            addresses = future.result()
+            if not addresses:
+                failed += 1
+                continue
+            resolved += 1
+            for address in addresses:
+                add_ip(ip_list, address)
+
+    print(f"Resolved domains: {resolved}, failed: {failed}.")
 
 def fetch_nodes():
     if not os.path.exists(CONFIG_FILE):
@@ -33,11 +74,13 @@ def fetch_nodes():
         target_cc = target.get('cc')
         print(f"Fetching nodes for: {keyword} ({target_cc})...")
         
-        url = f"https://www.speedtest.net/api/js/servers?engine=js&search={requests.utils.quote(keyword)}"
+        url = f"https://www.speedtest.net/api/js/servers?engine=js&search={urllib.parse.quote(keyword)}"
         try:
-            resp = requests.get(url, headers=headers, timeout=15)
-            if resp.status_code == 200:
-                nodes = resp.json()
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                if resp.status != 200:
+                    continue
+                nodes = json.load(resp)
                 count = 0
                 for node in nodes:
                     # Strict CC matching
@@ -48,7 +91,7 @@ def fetch_nodes():
                             host = host_with_port.split(':')[0].lower()
                             
                             if is_ip(host):
-                                ip_list.add(f"{host}/32")
+                                add_ip(ip_list, host)
                             else:
                                 domain_list.add(host)
                                 ookla_suffix = ".prod.hosts.ooklaserver.net"
@@ -56,10 +99,13 @@ def fetch_nodes():
                                     base_domain = host[:-len(ookla_suffix)]
                                     domain_list.add(base_domain)
                                     if is_ip(base_domain):
-                                        ip_list.add(f"{base_domain}/32")
+                                        add_ip(ip_list, base_domain)
+                            count += 1
                 print(f"Added {count} nodes for {target_cc}.")
         except Exception as e:
             print(f"Failed to fetch {keyword}: {e}")
+
+    resolve_domains(domain_list, ip_list)
 
 # Write Domain List
     with open(DOMAIN_OUTPUT, "w", encoding="ascii") as f:
