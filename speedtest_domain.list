@@ -41,7 +41,6 @@ backbone.pdx.fiberfi.net.prod.hosts.ooklaserver.net
 bassoon-sg-1.violin.co.th
 ch1.speedtest.gslnetworks.com
 ch1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
-charlotte02.speedtest.windstream.net
 chcg.ookla.surfinternet.com
 chcg.ookla.surfinternet.com.prod.hosts.ooklaserver.net
 chi-speedtest.net.sangoma.net
@@ -58,7 +57,6 @@ chich0003ooklaspeedtestserver01.wiline.com
 chich0003ooklaspeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 chspeed.shawnee.com
 chspeed.shawnee.com.prod.hosts.ooklaserver.net
-chvl-speedtest-02.brightspeed.com
 csl.hkspeedtest.com
 csl.hkspeedtest.com.prod.hosts.ooklaserver.net
 cwf-speedtest-se.clearwave.com
@@ -210,8 +208,6 @@ mirror.nforce.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
 mtcspeedtest.catskill.net
 mtcspeedtest.catskill.net.prod.hosts.ooklaserver.net
-net-ookla-dc.p.foundation
-net-ookla-dc.p.foundation.prod.hosts.ooklaserver.net
 netspeed.empireaccess.com
 netspeed.empireaccess.com.prod.hosts.ooklaserver.net
 newyork02.speedtest.windstream.net
@@ -349,6 +345,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -466,6 +463,7 @@ speedtest-intl.xl.co.id
 speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net
 speedtest-kc.conexonconnect.com
 speedtest-kc.conexonconnect.com.prod.hosts.ooklaserver.net
+speedtest-la.getonward.com
 speedtest-lax.melbicom.net
 speedtest-lax.perfectip.net
 speedtest-lon.krystal.uk
@@ -763,8 +761,6 @@ speedtest.rfchost.net
 speedtest.rfchost.net.prod.hosts.ooklaserver.net
 speedtest.rfnfiber.com
 speedtest.rfnfiber.com.prod.hosts.ooklaserver.net
-speedtest.ripplefiber.com
-speedtest.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest.rit.edu
 speedtest.rit.edu.prod.hosts.ooklaserver.net
 speedtest.rochestercolo.com
@@ -887,8 +883,6 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
-speedtest10.vqbn.com
-speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.ash.as13760.net
 speedtest10g.ash.as13760.net.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
@@ -1018,6 +1012,7 @@ test.vipconnect.mx.prod.hosts.ooklaserver.net
 thn.speedtest.gslnetworks.com
 thn.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 txda.speedtest.pavlovmedia.net
+txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
 tyo.speedtest.contabo.net
