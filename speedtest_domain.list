@@ -41,6 +41,7 @@ backbone.pdx.fiberfi.net.prod.hosts.ooklaserver.net
 bassoon-sg-1.violin.co.th
 ch1.speedtest.gslnetworks.com
 ch1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
+charlotte02.speedtest.windstream.net
 chcg.ookla.surfinternet.com
 chcg.ookla.surfinternet.com.prod.hosts.ooklaserver.net
 chi-speedtest.net.sangoma.net
@@ -57,6 +58,7 @@ chich0003ooklaspeedtestserver01.wiline.com
 chich0003ooklaspeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 chspeed.shawnee.com
 chspeed.shawnee.com.prod.hosts.ooklaserver.net
+chvl-speedtest-02.brightspeed.com
 csl.hkspeedtest.com
 csl.hkspeedtest.com.prod.hosts.ooklaserver.net
 cwf-speedtest-se.clearwave.com
@@ -278,8 +280,6 @@ ookla.ncwcom.com
 ookla.ncwcom.com.prod.hosts.ooklaserver.net
 ookla.opticaltel.com
 ookla.opticaltel.com.prod.hosts.ooklaserver.net
-ookla.rbn.gr
-ookla.rbn.gr.prod.hosts.ooklaserver.net
 ookla.svw.as6453.net
 ookla.svw.as6453.net.prod.hosts.ooklaserver.net
 ookla.unwiredltd.com
@@ -333,8 +333,6 @@ sea.st.spacecore.pro.prod.hosts.ooklaserver.net
 seattle.speedtest.centurylink.net
 seawa00-speedtest.etstelco.com
 seawa00-speedtest.etstelco.com.prod.hosts.ooklaserver.net
-server-56839
-server-56839.prod.hosts.ooklaserver.net
 sfosf0003paxiospeedtestserver01.wiline.com
 sfosf0003paxiospeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 sfosfookla.wiline.com
@@ -482,8 +480,6 @@ speedtest-losangeles.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest-mci-01.accuris.ca
 speedtest-mci-01.pdx.net.uk
 speedtest-mci-01.pdx.net.uk.prod.hosts.ooklaserver.net
-speedtest-net-fra.dispaisy.systems
-speedtest-net-fra.dispaisy.systems.prod.hosts.ooklaserver.net
 speedtest-net.mk.de
 speedtest-nl.cloudlease.co.il
 speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
@@ -619,6 +615,7 @@ speedtest.den.sharktech.net
 speedtest.den.sharktech.net.prod.hosts.ooklaserver.net
 speedtest.den1.nitelusa.net
 speedtest.den1.nitelusa.net.prod.hosts.ooklaserver.net
+speedtest.denver.intrepidfiber.com
 speedtest.desertwinds.net
 speedtest.desertwinds.net.prod.hosts.ooklaserver.net
 speedtest.dfw1.sonic.net
@@ -640,7 +637,6 @@ speedtest.fra1.hivelocity.net
 speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.frankfurt-am-main.valtrix.org
 speedtest.frantic.link
-speedtest.frantic.link.prod.hosts.ooklaserver.net
 speedtest.gigabeaminternet.com
 speedtest.gilarivertel.com
 speedtest.global-layer.com
@@ -665,8 +661,6 @@ speedtest.infraly.co
 speedtest.infraly.co.prod.hosts.ooklaserver.net
 speedtest.inoc.net
 speedtest.ioflood.com
-speedtest.ip-house.co.uk
-speedtest.ip-house.co.uk.prod.hosts.ooklaserver.net
 speedtest.ip-projects.de
 speedtest.isp.net
 speedtest.la2.gigabitnow.com
@@ -761,6 +755,8 @@ speedtest.rfchost.net
 speedtest.rfchost.net.prod.hosts.ooklaserver.net
 speedtest.rfnfiber.com
 speedtest.rfnfiber.com.prod.hosts.ooklaserver.net
+speedtest.ripplefiber.com
+speedtest.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest.rit.edu
 speedtest.rit.edu.prod.hosts.ooklaserver.net
 speedtest.rochestercolo.com
@@ -814,6 +810,7 @@ speedtest.us-se.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us-tx.kamatera.com
 speedtest.us-tx.kamatera.com.prod.hosts.ooklaserver.net
 speedtest.us.mirhosting.net
+speedtest.us.mirhosting.net.prod.hosts.ooklaserver.net
 speedtest.us.openinfra.com
 speedtest.usinternet.com
 speedtest.usinternet.com.prod.hosts.ooklaserver.net
@@ -883,8 +880,8 @@ speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
 speedtest1.synlinq.de.prod.hosts.ooklaserver.net
-speedtest10g.ash.as13760.net
-speedtest10g.ash.as13760.net.prod.hosts.ooklaserver.net
+speedtest10.vqbn.com
+speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
 speedtest10g.atl.as13760.net.prod.hosts.ooklaserver.net
 speedtest120.dal1.tx.hostedbackbone.net
@@ -1015,7 +1012,6 @@ txda.speedtest.pavlovmedia.net
 txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
-tyo.speedtest.contabo.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-iad01.speed.misaka.one
