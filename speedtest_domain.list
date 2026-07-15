@@ -52,6 +52,7 @@ chi.speedtest.clouvider.net.prod.hosts.ooklaserver.net
 chicago.il.speedtest.frontier.com
 chicago.speedtest.brightspeed.com
 chicago02.speedtest.windstream.net
+chicago1.cabospeed.com
 chich0003ooklaspeedtestserver01.wiline.com
 chich0003ooklaspeedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 chspeed.shawnee.com
@@ -199,8 +200,6 @@ miami.fl.speedtest.frontier.com
 miami.getstreamhosting.com
 miami.speedtest.angolacables.co.ao
 miami.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
-miaspeedtest.blackburn-pr.com
-miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mirror.nforce.com
 mirror.nforce.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
@@ -543,8 +542,6 @@ speedtest.ams.t-mobile.nl
 speedtest.ams.t-mobile.nl.prod.hosts.ooklaserver.net
 speedtest.ams.wd6.net
 speedtest.ams.wd6.net.prod.hosts.ooklaserver.net
-speedtest.ams0.nl.as61049.net
-speedtest.ams0.nl.as61049.net.prod.hosts.ooklaserver.net
 speedtest.ams1.hivelocity.net
 speedtest.ams1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.aquiss.net
@@ -659,6 +656,8 @@ speedtest.isp.net
 speedtest.la2.gigabitnow.com
 speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net
 speedtest.la3eq.fdcservers.net
+speedtest.lamasatpro.com
+speedtest.lamasatpro.com.prod.hosts.ooklaserver.net
 speedtest.lax.gigenet.com
 speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net
 speedtest.lax.hivelocity.net
@@ -723,7 +722,6 @@ speedtest.nopdatacenters.com.prod.hosts.ooklaserver.net
 speedtest.nu-z.net
 speedtest.nu-z.net.prod.hosts.ooklaserver.net
 speedtest.oceansls.com
-speedtest.oceansls.com.prod.hosts.ooklaserver.net
 speedtest.octaplus.uk
 speedtest.ord1.hivelocity.net
 speedtest.ord1.hivelocity.net.prod.hosts.ooklaserver.net
@@ -773,7 +771,6 @@ speedtest.spectrumvoip.com.prod.hosts.ooklaserver.net
 speedtest.sptel.com
 speedtest.sptel.com.prod.hosts.ooklaserver.net
 speedtest.summithq.com
-speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
@@ -859,6 +856,7 @@ speedtest1-sttlwawb.as20055.net
 speedtest1-sttlwawb.as20055.net.prod.hosts.ooklaserver.net
 speedtest1.acentek.net
 speedtest1.chi.nxlink.com
+speedtest1.chi.nxlink.com.prod.hosts.ooklaserver.net
 speedtest1.indosatooredoo.com
 speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net
 speedtest1.net.cornell.edu
@@ -869,6 +867,7 @@ speedtest1.nextpertise.nl.prod.hosts.ooklaserver.net
 speedtest1.nyc1.nitelusa.net
 speedtest1.nyc1.nitelusa.net.prod.hosts.ooklaserver.net
 speedtest1.oma.nxlink.com
+speedtest1.oma.nxlink.com.prod.hosts.ooklaserver.net
 speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest1.synlinq.de
@@ -904,6 +903,7 @@ speedtest21.hkbn.net
 speedtest21.hkbn.net.prod.hosts.ooklaserver.net
 speedtest3.dacor.de
 speedtest3.dal.nxlink.com
+speedtest3.dal.nxlink.com.prod.hosts.ooklaserver.net
 speedtest5.fybercom.net
 speedtest9200.sea.acsalaska.net
 speedtestatl.gethotwired.com
