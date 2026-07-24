@@ -4,7 +4,14 @@
     {"keyword": "Kowloon", "cc": "HK"},
 
     {"keyword": "Tokyo", "cc": "JP"},
-    {"keyword": "Osaka", "cc": "JP"},
+    {"keyword": "Bunkyo", "cc": "JP"},
+    {"keyword": "Chiba", "cc": "JP"},
+    {"keyword": "Tsukuba", "cc": "JP"},
+    {"keyword": "Sanda", "cc": "JP"},
+    {"keyword": "Misawa", "cc": "JP"},
+    {"keyword": "Ginowan", "cc": "JP"},
+    {"keyword": "Naha", "cc": "JP"},
+    {"keyword": "Bunkyo", "cc": "JP"},
 
     {"keyword": "Singapore", "cc": "SG"},
 
