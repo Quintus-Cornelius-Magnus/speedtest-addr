@@ -33,6 +33,8 @@ atlanta02.speedtest.windstream.net
 atlat0001speedtestserver02.wiline.com
 atlat0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
 attgaook.speedtest.sbcglobal.net
+atx.speedtest.nexstream.network
+atx.speedtest.nexstream.network.prod.hosts.ooklaserver.net
 austin.speedtest.fiberfirst.com
 austin.speedtest.fiberfirst.com.prod.hosts.ooklaserver.net
 backbone.pdx.fiberfi.net
@@ -114,7 +116,6 @@ gisho.work.prod.hosts.ooklaserver.net
 hk-bgp-speedtest.nearoute.io
 hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
-hk.mymonitor.space
 hk01.bigball.top
 hk01.bigball.top.prod.hosts.ooklaserver.net
 hk1.speedtest.gslnetworks.com
@@ -261,6 +262,8 @@ ookla.hk2.as6453.net
 ookla.hk2.as6453.net.prod.hosts.ooklaserver.net
 ookla.idnet.net
 ookla.idnet.net.prod.hosts.ooklaserver.net
+ookla.intracex.de
+ookla.intracex.de.prod.hosts.ooklaserver.net
 ookla.la.ca.sharktech.net
 ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net
 ookla.ldn.as6453.net
@@ -1019,6 +1022,7 @@ txda.speedtest.pavlovmedia.net
 txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
+tyo.speedtest.contabo.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-iad01.speed.misaka.one
