@@ -21,6 +21,8 @@ ashbn-va.speedtest.shentel.net
 ashbn-va.speedtest.shentel.net.prod.hosts.ooklaserver.net
 ashburn.va.speedtest.frontier.com
 ashburn02.speedtest.windstream.net
+atl-speedtest.northstate.net
+atl-speedtest.northstate.net.prod.hosts.ooklaserver.net
 atl-speedtest.shifthosting.com
 atl-speedtest.shifthosting.com.prod.hosts.ooklaserver.net
 atl.speedtest.clouvider.net
@@ -341,6 +343,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -621,7 +624,6 @@ speedtest.desertwinds.net
 speedtest.desertwinds.net.prod.hosts.ooklaserver.net
 speedtest.dfw1.sonic.net
 speedtest.dllstx97.metronetinc.com
-speedtest.dllstx97.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.dnvrco26.metronetinc.com
 speedtest.dnvrco26.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.duocast.net
@@ -936,6 +938,8 @@ speedtestlondon.telecom.mu
 speedtestlondon.telecom.mu.prod.hosts.ooklaserver.net
 speedtestmera.vs.mythic-beasts.com
 speedtestmera.vs.mythic-beasts.com.prod.hosts.ooklaserver.net
+speedtestmia.gethotwired.com
+speedtestmia.gethotwired.com.prod.hosts.ooklaserver.net
 speedtestmiabr.telxius.com
 speedtestmiami.telecablecr.com
 speedtestmiami.telecablecr.com.prod.hosts.ooklaserver.net
