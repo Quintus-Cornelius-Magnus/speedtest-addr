@@ -134,8 +134,8 @@ hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net
 hkt.hkspeedtest.com
 hkt.hkspeedtest.com.prod.hosts.ooklaserver.net
 hkthspeedtest02.telstraglobal.net
-hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net
 hoshiyomi.ratatoskr.org
+hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
 houho0001speedtestserver01.wiline.com
 houho0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 houston.speedtest.brightspeed.com
@@ -430,7 +430,6 @@ speedtest-ash.vts.bf.prod.hosts.ooklaserver.net
 speedtest-atl.conexonconnect.com
 speedtest-atl.conexonconnect.com.prod.hosts.ooklaserver.net
 speedtest-atl.melbicom.net
-speedtest-atl.melbicom.net.prod.hosts.ooklaserver.net
 speedtest-atlanta.ripplefiber.com
 speedtest-atlanta.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest-binghamton.greenlightnetworks.com
@@ -691,7 +690,6 @@ speedtest.lon1.edgoo.net
 speedtest.lon1.edgoo.net.prod.hosts.ooklaserver.net
 speedtest.lon1.hivelocity.net
 speedtest.lon1.hivelocity.net.prod.hosts.ooklaserver.net
-speedtest.lsnetworks.net
 speedtest.massivemesh.com
 speedtest.massivemesh.com.prod.hosts.ooklaserver.net
 speedtest.masteritsupport.com
@@ -789,8 +787,6 @@ speedtest.summithq.com
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
-speedtest.thn.uk.syntura.io
-speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
