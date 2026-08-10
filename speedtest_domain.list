@@ -119,7 +119,6 @@ gisho.work.prod.hosts.ooklaserver.net
 hk-bgp-speedtest.nearoute.io
 hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
-hk.mymonitor.space
 hk01.bigball.top
 hk01.bigball.top.prod.hosts.ooklaserver.net
 hk1.speedtest.gslnetworks.com
@@ -235,6 +234,7 @@ oak-speedtest.otelco.com.prod.hosts.ooklaserver.net
 omaha.speedtest.centurylink.net
 omaha.speedtest.fiberfirst.com
 omaha.speedtest.fiberfirst.com.prod.hosts.ooklaserver.net
+ony.speedtest.contabo.net
 ook511.prtel.net
 ook511.prtel.net.prod.hosts.ooklaserver.net
 ookla-ams.avur.no
@@ -343,6 +343,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -978,6 +979,8 @@ st.thw.rocket-fibre.co.uk
 st.thw.rocket-fibre.co.uk.prod.hosts.ooklaserver.net
 st0.dal.tularosa.net
 st0.dal.tularosa.net.prod.hosts.ooklaserver.net
+st01.fynncloud.net
+st01.fynncloud.net.prod.hosts.ooklaserver.net
 st1.tzulo.com
 st2.octopustelecom.co.uk
 st2.octopustelecom.co.uk.prod.hosts.ooklaserver.net
