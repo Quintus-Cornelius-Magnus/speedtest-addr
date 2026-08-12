@@ -68,6 +68,8 @@ denver.speed.vcn.com.prod.hosts.ooklaserver.net
 denver.speedtest.centurylink.net
 dfw-1.speedtest.ozarksgo.net
 dfw-1.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net
+dfw-eqx11-ookla-1.99.network
+dfw-eqx11-ookla-1.99.network.prod.hosts.ooklaserver.net
 dlstxook.speedtest.sbcglobal.net
 dnvrco-ookla1.vyvebroadband.net
 dpac-la.guam.net
@@ -87,13 +89,10 @@ gisho.work.prod.hosts.ooklaserver.net
 hk-bgp-speedtest.nearoute.io
 hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
-hk.mymonitor.space
 hk01.bigball.top
 hk01.bigball.top.prod.hosts.ooklaserver.net
 hk1.speedtest.gslnetworks.com
 hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
-hkg.02.speedtest.kansuiun.com
-hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net
 hkg.speedtest.lshiy.net
 hkgspeedtest.cmctelecom.vn
 hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net
@@ -101,6 +100,8 @@ hkspeedtest.netvigator.com
 hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net
 hkt.hkspeedtest.com
 hkt.hkspeedtest.com.prod.hosts.ooklaserver.net
+hkthspeedtest02.telstraglobal.net
+hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net
 hoshiyomi.ratatoskr.org
 hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
 houho0001speedtestserver01.wiline.com
@@ -160,8 +161,6 @@ nl.blackhost.network
 nl.blackhost.network.prod.hosts.ooklaserver.net
 nl.itdatatelecom.ro
 nl.itdatatelecom.ro.prod.hosts.ooklaserver.net
-nl.speedtest.labixe.net
-nl.speedtest.labixe.net.prod.hosts.ooklaserver.net
 oak-speedtest.otelco.com
 oak-speedtest.otelco.com.prod.hosts.ooklaserver.net
 omaha.speedtest.centurylink.net
@@ -195,8 +194,6 @@ ookla.ldn.as6453.net
 ookla.mbspeed.net
 ookla.mci-1.serverforge.org
 ookla.mci-1.serverforge.org.prod.hosts.ooklaserver.net
-ookla.ncwcom.com
-ookla.ncwcom.com.prod.hosts.ooklaserver.net
 ookla.svw.as6453.net
 ookla.svw.as6453.net.prod.hosts.ooklaserver.net
 ookla.unwiredltd.com
@@ -236,6 +233,8 @@ sea.speedtest.gslnetworks.com
 sea.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sea.st.spacecore.pro
 sea.st.spacecore.pro.prod.hosts.ooklaserver.net
+seacaftest.aptalaska.net
+seacaftest.aptalaska.net.prod.hosts.ooklaserver.net
 seattle.speedtest.centurylink.net
 seawa00-speedtest.etstelco.com
 seawa00-speedtest.etstelco.com.prod.hosts.ooklaserver.net
@@ -325,7 +324,6 @@ speedtest-germany.veribarindir.com.tr
 speedtest-germany.veribarindir.com.tr.prod.hosts.ooklaserver.net
 speedtest-hk.tgb-host.com
 speedtest-hk.tgb-host.com.prod.hosts.ooklaserver.net
-speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
 speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net
 speedtest-kc.conexonconnect.com
@@ -474,8 +472,6 @@ speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
 speedtest.hnd.fdcservers.net
-speedtest.homecomminc.com
-speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.hostgrap.com
 speedtest.i4networks.nl
 speedtest.i4networks.nl.prod.hosts.ooklaserver.net
@@ -513,8 +509,6 @@ speedtest.me.mycci.net
 speedtest.meerfarbig.net
 speedtest.meerfarbig.net.prod.hosts.ooklaserver.net
 speedtest.minneapolis.intrepidfiber.com
-speedtest.mtc4me.com
-speedtest.mtc4me.com.prod.hosts.ooklaserver.net
 speedtest.myrepublic.com.sg
 speedtest.netcalibre.net
 speedtest.netcalibre.net.prod.hosts.ooklaserver.net
@@ -635,8 +629,6 @@ speedtest120.dal1.tx.hostedbackbone.net
 speedtest120.dal1.tx.hostedbackbone.net.prod.hosts.ooklaserver.net
 speedtest2-kc.kanren.net
 speedtest2-kc.kanren.net.prod.hosts.ooklaserver.net
-speedtest2-wichita.kanren.net
-speedtest2-wichita.kanren.net.prod.hosts.ooklaserver.net
 speedtest2.lightningfibre.net.uk
 speedtest2.me.mycci.net
 speedtest2.mn.mycci.net
@@ -731,10 +723,7 @@ txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
 ty8.speedtest.gslnetworks.com
 ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
-tyo.speedtest.contabo.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-lax02.speed.misaka.one
 us-sjc10.speed.misaka.one
-wellington-speedtest.connectwithusa.com
-wellington-speedtest.connectwithusa.com.prod.hosts.ooklaserver.net
