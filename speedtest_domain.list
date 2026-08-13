@@ -161,6 +161,8 @@ nl.blackhost.network
 nl.blackhost.network.prod.hosts.ooklaserver.net
 nl.itdatatelecom.ro
 nl.itdatatelecom.ro.prod.hosts.ooklaserver.net
+nl.speedtest.labixe.net
+nl.speedtest.labixe.net.prod.hosts.ooklaserver.net
 oak-speedtest.otelco.com
 oak-speedtest.otelco.com.prod.hosts.ooklaserver.net
 omaha.speedtest.centurylink.net
@@ -194,12 +196,16 @@ ookla.ldn.as6453.net
 ookla.mbspeed.net
 ookla.mci-1.serverforge.org
 ookla.mci-1.serverforge.org.prod.hosts.ooklaserver.net
+ookla.ncwcom.com
+ookla.ncwcom.com.prod.hosts.ooklaserver.net
 ookla.svw.as6453.net
 ookla.svw.as6453.net.prod.hosts.ooklaserver.net
 ookla.unwiredltd.com
 ookla.unwiredltd.com.prod.hosts.ooklaserver.net
 ookla1.the.net.1310.io
 ookla2.mbspeed.net
+ord-cos1-ookla-1.99.network
+ord-cos1-ookla-1.99.network.prod.hosts.ooklaserver.net
 owst.gilat.net
 owst.gilat.net.prod.hosts.ooklaserver.net
 pdxpo0001speedtestserver01.wiline.com
@@ -320,10 +326,9 @@ speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net
 speedtest-fkt-eqx.retn.net
 speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net
 speedtest-fra.melbicom.net
-speedtest-germany.veribarindir.com.tr
-speedtest-germany.veribarindir.com.tr.prod.hosts.ooklaserver.net
 speedtest-hk.tgb-host.com
 speedtest-hk.tgb-host.com.prod.hosts.ooklaserver.net
+speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
 speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net
 speedtest-kc.conexonconnect.com
@@ -629,6 +634,8 @@ speedtest120.dal1.tx.hostedbackbone.net
 speedtest120.dal1.tx.hostedbackbone.net.prod.hosts.ooklaserver.net
 speedtest2-kc.kanren.net
 speedtest2-kc.kanren.net.prod.hosts.ooklaserver.net
+speedtest2-wichita.kanren.net
+speedtest2-wichita.kanren.net.prod.hosts.ooklaserver.net
 speedtest2.lightningfibre.net.uk
 speedtest2.me.mycci.net
 speedtest2.mn.mycci.net
@@ -713,8 +720,6 @@ sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net
 suntechspeedtest.com
 suntechspeedtest.com.prod.hosts.ooklaserver.net
 sv-ookla.geolinks.com
-test.mycloudvps.net
-test.mycloudvps.net.prod.hosts.ooklaserver.net
 thn.speedtest.gslnetworks.com
 thn.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 txda.speedtest.pavlovmedia.net
@@ -727,3 +732,5 @@ uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-lax02.speed.misaka.one
 us-sjc10.speed.misaka.one
+wellington-speedtest.connectwithusa.com
+wellington-speedtest.connectwithusa.com.prod.hosts.ooklaserver.net
