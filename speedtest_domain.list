@@ -28,7 +28,6 @@ chi-speedtest.shifthosting.com
 chi-speedtest.shifthosting.com.prod.hosts.ooklaserver.net
 chi.speedtest.clouvider.net
 chi.speedtest.clouvider.net.prod.hosts.ooklaserver.net
-chicago.il.speedtest.frontier.com
 chicago.speedtest.brightspeed.com
 chicago02.speedtest.windstream.net
 chicago1.cabospeed.com
@@ -255,6 +254,7 @@ sg-bgp-speedtest.nearoute.io
 sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -407,8 +407,6 @@ speedtest.ams0.nl.as61049.net
 speedtest.ams0.nl.as61049.net.prod.hosts.ooklaserver.net
 speedtest.ams1.hivelocity.net
 speedtest.ams1.hivelocity.net.prod.hosts.ooklaserver.net
-speedtest.amsterdam.valtrix.org
-speedtest.amsterdam.valtrix.org.prod.hosts.ooklaserver.net
 speedtest.aquiss.net
 speedtest.as215296.net
 speedtest.as215296.net.prod.hosts.ooklaserver.net
@@ -507,8 +505,6 @@ speedtest.meerfarbig.net.prod.hosts.ooklaserver.net
 speedtest.myrepublic.com.sg
 speedtest.netcalibre.net
 speedtest.netcalibre.net.prod.hosts.ooklaserver.net
-speedtest.netone.nl
-speedtest.netone.nl.prod.hosts.ooklaserver.net
 speedtest.network.utexas.edu
 speedtest.network.utexas.edu.prod.hosts.ooklaserver.net
 speedtest.newsxs.nl
