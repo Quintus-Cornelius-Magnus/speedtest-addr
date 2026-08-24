@@ -734,6 +734,8 @@ speedtest.newsxs.nl
 speedtest.newsxs.nl.prod.hosts.ooklaserver.net
 speedtest.nik.fiber.nl
 speedtest.nik.fiber.nl.prod.hosts.ooklaserver.net
+speedtest.nikhef.qonnected.net
+speedtest.nikhef.qonnected.net.prod.hosts.ooklaserver.net
 speedtest.nl.novoserve.com
 speedtest.nl3.mirhosting.net
 speedtest.nl3.mirhosting.net.prod.hosts.ooklaserver.net
@@ -779,8 +781,6 @@ speedtest.sea.fdcservers.net
 speedtest.serverpronto.com
 speedtest.serverpronto.com.prod.hosts.ooklaserver.net
 speedtest.sg.fdcservers.net
-speedtest.sg.hsp.net.id
-speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net
 speedtest.singapore.globalxtreme.net
 speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net
 speedtest.singnet.com.sg
