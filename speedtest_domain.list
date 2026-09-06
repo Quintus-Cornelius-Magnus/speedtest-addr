@@ -85,6 +85,7 @@ de-lg.h2.nexus
 de.speedtest.waicore.com
 den-speedtest.net.sangoma.net
 den-speedtest.net.sangoma.net.prod.hosts.ooklaserver.net
+den11-speedtest01.as15108.com
 dende0004speedtestserver01.wiline.com
 dende0004speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 denver-speedtest.commnetbroadband.com
@@ -132,8 +133,6 @@ hkt.hkspeedtest.com
 hkt.hkspeedtest.com.prod.hosts.ooklaserver.net
 hkthspeedtest02.telstraglobal.net
 hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net
-hoshiyomi.ratatoskr.org
-hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
 houho0001speedtestserver01.wiline.com
 houho0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 houston.speedtest.brightspeed.com
@@ -301,7 +300,6 @@ phl01.screenshot.download
 phl01.screenshot.download.prod.hosts.ooklaserver.net
 phlph0001speedtestserver02.wiline.com
 phlph0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
-phmazook.speedtest.sbcglobal.net
 phoenix.speedtest.centurylink.net
 phoenix1.cabospeed.com
 phoenixim-speedtest.commnetbroadband.com
@@ -345,7 +343,6 @@ sfosj0096speedtestserver02.wiline.com
 sfosj0096speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
-sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -415,6 +412,7 @@ speednld.phoenixnap.com
 speedsg.genznet.id
 speedsin.phoenixnap.com
 speedsin.phoenixnap.com.prod.hosts.ooklaserver.net
+speedtest-1.london.network.as212655.net
 speedtest-ad-1.zoominternet.net
 speedtest-ad-1.zoominternet.net.prod.hosts.ooklaserver.net
 speedtest-albany.greenlightnetworks.com
@@ -475,8 +473,6 @@ speedtest-lon.retn.net.prod.hosts.ooklaserver.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-lon06.vorboss.net.prod.hosts.ooklaserver.net
-speedtest-lon1.elite.net.uk
-speedtest-lon1.elite.net.uk.prod.hosts.ooklaserver.net
 speedtest-london-east.vodafone.co.uk
 speedtest-london-east.vodafone.co.uk.prod.hosts.ooklaserver.net
 speedtest-london.its-tg.net
