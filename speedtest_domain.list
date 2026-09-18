@@ -348,6 +348,7 @@ sfosj0096speedtestserver02.wiline.com
 sfosj0096speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
 sg-speedtest.fast.net.id
 sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net
+sg.cloudhost.asia
 sg3.speedtest.gslnetworks.com
 sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
 sgn-nperf.verizon.net
@@ -535,6 +536,7 @@ speedtest-syr.northland.net.prod.hosts.ooklaserver.net
 speedtest-tac1.gigabitnow.com
 speedtest-thn.uk.airbytes.network
 speedtest-utc.northland.net
+speedtest-utc.northland.net.prod.hosts.ooklaserver.net
 speedtest-wa.waveip.org
 speedtest-wa.waveip.org.prod.hosts.ooklaserver.net
 speedtest-xg-oki.glbb.ne.jp
@@ -658,6 +660,7 @@ speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
 speedtest.hkg.fdcservers.net
+speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.hostgrap.com
@@ -704,6 +707,7 @@ speedtest.mci.as1003.net.prod.hosts.ooklaserver.net
 speedtest.me.mycci.net
 speedtest.meerfarbig.net
 speedtest.meerfarbig.net.prod.hosts.ooklaserver.net
+speedtest.mereofiber.com
 speedtest.mhcable.com
 speedtest.mhcable.com.prod.hosts.ooklaserver.net
 speedtest.mia.fdcservers.net
@@ -801,6 +805,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -830,8 +836,6 @@ speedtest.us.openinfra.com
 speedtest.usc-dfw1.pllx.net
 speedtest.usinternet.com
 speedtest.usinternet.com.prod.hosts.ooklaserver.net
-speedtest.velocitywa.com
-speedtest.velocitywa.com.prod.hosts.ooklaserver.net
 speedtest.versonetworks.net
 speedtest.virtical.cloud
 speedtest.vistabeam.com
@@ -967,6 +971,8 @@ speedtestmiami.telecablecr.com
 speedtestmiami.telecablecr.com.prod.hosts.ooklaserver.net
 speedtests.ord.your.org
 speedtests.ord.your.org.prod.hosts.ooklaserver.net
+speedtestsgp.fpt.vn
+speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net
 speedtestuk1.cybersmart.co.za
 speedtestuk1.cybersmart.co.za.prod.hosts.ooklaserver.net
 speedtestus.pvdatanet.com
@@ -1015,6 +1021,8 @@ stosat-atlt-01.sys.comcast.net
 stosat-atlt-01.sys.comcast.net.prod.hosts.ooklaserver.net
 stosat-bvrt-01.sys.comcast.net
 stosat-bvrt-01.sys.comcast.net.prod.hosts.ooklaserver.net
+stosat-chic-01.sys.comcast.net
+stosat-chic-01.sys.comcast.net.prod.hosts.ooklaserver.net
 stosat-hstn-01.sys.comcast.net
 stosat-hstn-01.sys.comcast.net.prod.hosts.ooklaserver.net
 stosat-ndhm-01.sys.comcast.net
