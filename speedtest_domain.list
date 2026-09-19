@@ -481,6 +481,7 @@ speedtest-lon.retn.net.prod.hosts.ooklaserver.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-lon06.vorboss.net.prod.hosts.ooklaserver.net
+speedtest-lon1.elite.net.uk
 speedtest-london-east.vodafone.co.uk
 speedtest-london-east.vodafone.co.uk.prod.hosts.ooklaserver.net
 speedtest-london.its-tg.net
@@ -678,6 +679,7 @@ speedtest.infraly.co.prod.hosts.ooklaserver.net
 speedtest.inoc.net
 speedtest.ioflood.com
 speedtest.ip-projects.de
+speedtest.ipvolume.net
 speedtest.isp.net
 speedtest.kairun.jp
 speedtest.kairun.jp.prod.hosts.ooklaserver.net
@@ -805,8 +807,6 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
-speedtest.thn.uk.syntura.io
-speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -836,6 +836,8 @@ speedtest.us.openinfra.com
 speedtest.usc-dfw1.pllx.net
 speedtest.usinternet.com
 speedtest.usinternet.com.prod.hosts.ooklaserver.net
+speedtest.velocitywa.com
+speedtest.velocitywa.com.prod.hosts.ooklaserver.net
 speedtest.versonetworks.net
 speedtest.virtical.cloud
 speedtest.vistabeam.com
