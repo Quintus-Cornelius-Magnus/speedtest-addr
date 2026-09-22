@@ -302,11 +302,6 @@ pdxpo0001speedtestserver01.wiline.com
 pdxpo0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 perf-01.ixn.as42689.net
 perf-01.ixn.as42689.net.prod.hosts.ooklaserver.net
-phl01.screenshot.download
-phl01.screenshot.download.prod.hosts.ooklaserver.net
-phlph0001speedtestserver02.wiline.com
-phlph0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
-phmazook.speedtest.sbcglobal.net
 phoenix.speedtest.centurylink.net
 phoenix1.cabospeed.com
 phoenixim-speedtest.commnetbroadband.com
@@ -417,6 +412,7 @@ speedgauge2.optonline.net.prod.hosts.ooklaserver.net
 speedlon.hyperoptic.com
 speedmn.gatewayfiber.net
 speedmn.gatewayfiber.net.prod.hosts.ooklaserver.net
+speednld.phoenixnap.com
 speedsg.genznet.id
 speedsin.phoenixnap.com
 speedsin.phoenixnap.com.prod.hosts.ooklaserver.net
@@ -551,7 +547,6 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
-speedtest.absolutevalidation.com
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -752,8 +747,6 @@ speedtest.oceansls.com.prod.hosts.ooklaserver.net
 speedtest.octaplus.uk
 speedtest.ord1.hivelocity.net
 speedtest.ord1.hivelocity.net.prod.hosts.ooklaserver.net
-speedtest.philasd.org
-speedtest.philasd.org.prod.hosts.ooklaserver.net
 speedtest.phnxaz19.metronetinc.com
 speedtest.phnxaz19.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.phoenix.xiber.net
@@ -919,7 +912,6 @@ speedtest1.oma.nxlink.com.prod.hosts.ooklaserver.net
 speedtest1.shsu.edu
 speedtest1.shsu.edu.prod.hosts.ooklaserver.net
 speedtest10.vqbn.com
-speedtest10.vqbn.com.prod.hosts.ooklaserver.net
 speedtest10g.atl.as13760.net
 speedtest10g.atl.as13760.net.prod.hosts.ooklaserver.net
 speedtest120.dal1.tx.hostedbackbone.net
@@ -1049,7 +1041,7 @@ txda.speedtest.pavlovmedia.net
 txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
-tyo.speedtest.contabo.net
+ty8.speedtest.gslnetworks.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-iad01.speed.misaka.one
