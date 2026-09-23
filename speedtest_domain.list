@@ -205,8 +205,6 @@ miami-speedtest.reliablesite.net.prod.hosts.ooklaserver.net
 miami.fl.speedtest.frontier.com
 miami.speedtest.angolacables.co.ao
 miami.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
-miaspeedtest.blackburn-pr.com
-miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mirror.nforce.com
 mirror.nforce.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
@@ -302,6 +300,11 @@ pdxpo0001speedtestserver01.wiline.com
 pdxpo0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 perf-01.ixn.as42689.net
 perf-01.ixn.as42689.net.prod.hosts.ooklaserver.net
+phl01.screenshot.download
+phl01.screenshot.download.prod.hosts.ooklaserver.net
+phlph0001speedtestserver02.wiline.com
+phlph0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
+phmazook.speedtest.sbcglobal.net
 phoenix.speedtest.centurylink.net
 phoenix1.cabospeed.com
 phoenixim-speedtest.commnetbroadband.com
@@ -321,6 +324,8 @@ ptldme-speedtest-ookla-01.st.charter.com
 ptldor-speedtest-ookla-01.st.charter.com
 purtel70.purtel.com
 purtel70.purtel.com.prod.hosts.ooklaserver.net
+qoeookla-dnvr-01.sys.comcast.net
+qoeookla-dnvr-01.sys.comcast.net.prod.hosts.ooklaserver.net
 qoeookla-mimi-01.sys.comcast.net
 qoeookla-mimi-01.sys.comcast.net.prod.hosts.ooklaserver.net
 s02.fix-speed.de
@@ -477,6 +482,7 @@ speedtest-lon.retn.net.prod.hosts.ooklaserver.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-lon06.vorboss.net.prod.hosts.ooklaserver.net
+speedtest-lon1.elite.net.uk
 speedtest-london-east.vodafone.co.uk
 speedtest-london-east.vodafone.co.uk.prod.hosts.ooklaserver.net
 speedtest-london.its-tg.net
@@ -656,7 +662,6 @@ speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net
 speedtest.hkg.fdcservers.net
-speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.homecomminc.com.prod.hosts.ooklaserver.net
 speedtest.hostgrap.com
@@ -747,6 +752,8 @@ speedtest.oceansls.com.prod.hosts.ooklaserver.net
 speedtest.octaplus.uk
 speedtest.ord1.hivelocity.net
 speedtest.ord1.hivelocity.net.prod.hosts.ooklaserver.net
+speedtest.philasd.org
+speedtest.philasd.org.prod.hosts.ooklaserver.net
 speedtest.phnxaz19.metronetinc.com
 speedtest.phnxaz19.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.phoenix.xiber.net
@@ -941,6 +948,7 @@ speedtest21.hkbn.net.prod.hosts.ooklaserver.net
 speedtest3.dacor.de
 speedtest5.fybercom.net
 speedtest5.fybercom.net.prod.hosts.ooklaserver.net
+speedtest9200.sea.acsalaska.net
 speedtestatl.gethotwired.com
 speedtestatl.gethotwired.com.prod.hosts.ooklaserver.net
 speedtestbb.hk.chinamobile.com
@@ -1042,6 +1050,7 @@ txda.speedtest.pavlovmedia.net.prod.hosts.ooklaserver.net
 txdllsspeedtest01.mybluepeak.net
 txdllsspeedtest01.mybluepeak.net.prod.hosts.ooklaserver.net
 ty8.speedtest.gslnetworks.com
+tyo.speedtest.contabo.net
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com.prod.hosts.ooklaserver.net
 us-iad01.speed.misaka.one
