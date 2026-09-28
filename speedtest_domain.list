@@ -203,6 +203,8 @@ miami-speedtest.reliablesite.net.prod.hosts.ooklaserver.net
 miami.fl.speedtest.frontier.com
 miami.speedtest.angolacables.co.ao
 miami.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
+miaspeedtest.blackburn-pr.com
+miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mirror.nforce.com
 mirror.nforce.com.prod.hosts.ooklaserver.net
 mslkwa-ookla1.vyvebroadband.net
@@ -434,8 +436,6 @@ speedtest-atl.conexonconnect.com.prod.hosts.ooklaserver.net
 speedtest-atl.melbicom.net
 speedtest-atlanta.ripplefiber.com
 speedtest-atlanta.ripplefiber.com.prod.hosts.ooklaserver.net
-speedtest-binghamton.greenlightnetworks.com
-speedtest-binghamton.greenlightnetworks.com.prod.hosts.ooklaserver.net
 speedtest-blh.us-west-02.lunavi.com
 speedtest-blh.us-west-02.lunavi.com.prod.hosts.ooklaserver.net
 speedtest-buffalo.greenlightnetworks.com
@@ -550,6 +550,7 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
+speedtest.absolutevalidation.com
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -559,6 +560,8 @@ speedtest.ams.t-mobile.nl
 speedtest.ams.t-mobile.nl.prod.hosts.ooklaserver.net
 speedtest.ams.wd6.net
 speedtest.ams.wd6.net.prod.hosts.ooklaserver.net
+speedtest.ams0.nl.as61049.net
+speedtest.ams0.nl.as61049.net.prod.hosts.ooklaserver.net
 speedtest.ams1.hivelocity.net
 speedtest.ams1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.ams14.usenet.farm
