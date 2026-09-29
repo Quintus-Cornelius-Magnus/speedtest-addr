@@ -41,6 +41,16 @@
     {"keyword": "McPherson", "cc": "US"},
     {"keyword": "Galva", "cc": "US"},
 
+    {"keyword": "Estacada", "cc": "US"},
+    {"keyword": "Portland", "cc": "US"},
+    {"keyword": "The%20Dalles", "cc": "US"},
+    {"keyword": "Hillsboro", "cc": "US"},
+    {"keyword": "Salem", "cc": "US"},
+    {"keyword": "Eugene", "cc": "US"},
+    {"keyword": "Bend", "cc": "US"},
+    {"keyword": "Beaverton", "cc": "US"},
+    {"keyword": "Medford", "cc": "US"},
+
     {"keyword": "New York", "cc": "US"},
     {"keyword": "Ashburn", "cc": "US"},
     {"keyword": "Washington", "cc": "US"},
