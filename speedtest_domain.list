@@ -542,8 +542,6 @@ speedtest-sjc.sectrify.com
 speedtest-sjc.sectrify.com.prod.hosts.ooklaserver.net
 speedtest-srv-a.homeworks.org
 speedtest-srv-a.homeworks.org.prod.hosts.ooklaserver.net
-speedtest-syr.northland.net
-speedtest-syr.northland.net.prod.hosts.ooklaserver.net
 speedtest-tac1.gigabitnow.com
 speedtest-thn.uk.airbytes.network
 speedtest-utc.northland.net
@@ -562,6 +560,7 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
+speedtest.absolutevalidation.com
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -819,6 +818,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
