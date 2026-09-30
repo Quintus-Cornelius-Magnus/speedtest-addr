@@ -251,7 +251,6 @@ ookla-mia.gigsouth.com
 ookla-mia.gigsouth.com.prod.hosts.ooklaserver.net
 ookla-speedtest.hgconair.hgc.com.hk
 ookla.a56.as6453.net
-ookla.a56.as6453.net.prod.hosts.ooklaserver.net
 ookla.aeq.as6453.net
 ookla.aeq.as6453.net.prod.hosts.ooklaserver.net
 ookla.alyrica.net
@@ -542,6 +541,8 @@ speedtest-sjc.sectrify.com
 speedtest-sjc.sectrify.com.prod.hosts.ooklaserver.net
 speedtest-srv-a.homeworks.org
 speedtest-srv-a.homeworks.org.prod.hosts.ooklaserver.net
+speedtest-syr.northland.net
+speedtest-syr.northland.net.prod.hosts.ooklaserver.net
 speedtest-tac1.gigabitnow.com
 speedtest-thn.uk.airbytes.network
 speedtest-utc.northland.net
@@ -627,6 +628,7 @@ speedtest.dal.hivelocity.net
 speedtest.dal.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.dal1.nitelusa.net
 speedtest.dal1.nitelusa.net.prod.hosts.ooklaserver.net
+speedtest.dccn.net
 speedtest.ddps.jp
 speedtest.ddps.jp.prod.hosts.ooklaserver.net
 speedtest.de.senko.network
@@ -818,8 +820,6 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
-speedtest.thn.uk.syntura.io
-speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -970,6 +970,7 @@ speedtest9200.sea.acsalaska.net
 speedtestatl.gethotwired.com
 speedtestatl.gethotwired.com.prod.hosts.ooklaserver.net
 speedtestbb.hk.chinamobile.com
+speedtestchi.cytranet.net
 speedtestdfw.gethotwired.com
 speedtestdfw.gethotwired.com.prod.hosts.ooklaserver.net
 speedtesthkg.fpt.vn
