@@ -176,6 +176,7 @@ lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 lightspeed.rainierconnect.com
+lightspeed.rainierconnect.com.prod.hosts.ooklaserver.net
 lon.host.speedtest.net
 lon.host.speedtest.net.prod.hosts.ooklaserver.net
 lon.speedtest.clouvider.net
@@ -414,6 +415,8 @@ speed1.airtek.com.ve
 speed1.airtek.com.ve.prod.hosts.ooklaserver.net
 speed1.spitfireuk.net
 speed1.spitfireuk.net.prod.hosts.ooklaserver.net
+speed12.gonetspeed.com
+speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
 speedgauge2.optonline.net
 speedgauge2.optonline.net.prod.hosts.ooklaserver.net
@@ -497,6 +500,8 @@ speedtest-losangeles.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest-mci-01.accuris.ca
 speedtest-mci-01.pdx.net.uk
 speedtest-mci-01.pdx.net.uk.prod.hosts.ooklaserver.net
+speedtest-net-fra.dispaisy.systems
+speedtest-net-fra.dispaisy.systems.prod.hosts.ooklaserver.net
 speedtest-net.mk.de
 speedtest-nl.cloudlease.co.il
 speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
@@ -560,7 +565,6 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
-speedtest.absolutevalidation.com
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -604,7 +608,6 @@ speedtest.bnsdfw.com.prod.hosts.ooklaserver.net
 speedtest.brightstar.cloud
 speedtest.brightstar.cloud.prod.hosts.ooklaserver.net
 speedtest.brsk.co.uk
-speedtest.cadence.net.uk
 speedtest.cerberusnetworks.co.uk
 speedtest.cerberusnetworks.co.uk.prod.hosts.ooklaserver.net
 speedtest.cet.com
@@ -616,6 +619,8 @@ speedtest.chi1.nitelusa.net.prod.hosts.ooklaserver.net
 speedtest.chie.fdcservers.net
 speedtest.clarkson.edu
 speedtest.clarkson.edu.prod.hosts.ooklaserver.net
+speedtest.columbiainet.com
+speedtest.columbiainet.com.prod.hosts.ooklaserver.net
 speedtest.coreix.net
 speedtest.coreix.net.prod.hosts.ooklaserver.net
 speedtest.creolineserver.de
@@ -698,6 +703,7 @@ speedtest.la3eq.fdcservers.net
 speedtest.lamasatpro.com
 speedtest.lamasatpro.com.prod.hosts.ooklaserver.net
 speedtest.lax.gigenet.com
+speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net
 speedtest.lax.hivelocity.net
 speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.lax1.nitelusa.net
@@ -736,6 +742,7 @@ speedtest.myrepublic.com.sg
 speedtest.naturalwireless.com
 speedtest.naturalwireless.com.prod.hosts.ooklaserver.net
 speedtest.net253.net
+speedtest.net253.net.prod.hosts.ooklaserver.net
 speedtest.netcalibre.net
 speedtest.netcalibre.net.prod.hosts.ooklaserver.net
 speedtest.netone.nl
