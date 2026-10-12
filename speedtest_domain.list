@@ -442,6 +442,8 @@ speedtest-atl.conexonconnect.com.prod.hosts.ooklaserver.net
 speedtest-atl.melbicom.net
 speedtest-atlanta.ripplefiber.com
 speedtest-atlanta.ripplefiber.com.prod.hosts.ooklaserver.net
+speedtest-binghamton.greenlightnetworks.com
+speedtest-binghamton.greenlightnetworks.com.prod.hosts.ooklaserver.net
 speedtest-blh.us-west-02.lunavi.com
 speedtest-blh.us-west-02.lunavi.com.prod.hosts.ooklaserver.net
 speedtest-buffalo.greenlightnetworks.com
@@ -562,6 +564,7 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
+speedtest.absolutevalidation.com
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -593,8 +596,6 @@ speedtest.atl.hivelocity.net
 speedtest.atl.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.atl1.jmfnetworks.net
 speedtest.atl1.jmfnetworks.net.prod.hosts.ooklaserver.net
-speedtest.atln.ga.wtsky.net
-speedtest.atln.ga.wtsky.net.prod.hosts.ooklaserver.net
 speedtest.axclusive.com.sg
 speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net
 speedtest.battern.eu
@@ -820,6 +821,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
