@@ -387,6 +387,7 @@ spdookla10g0201.noanet.net
 spdookla10g0201.noanet.net.prod.hosts.ooklaserver.net
 spdtst-southbend.fourway.net
 spdtst-southbend.fourway.net.prod.hosts.ooklaserver.net
+speed-ams.bouwhuisit.nl
 speed-test.ukservers.com
 speed-test.ukservers.com.prod.hosts.ooklaserver.net
 speed.golddata.net
@@ -508,7 +509,6 @@ speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
 speedtest-nl.hyperfilter.com
 speedtest-nl.hyperfilter.com.prod.hosts.ooklaserver.net
 speedtest-nl.vdsina.ru
-speedtest-nl.webdade.com
 speedtest-nl1.expresshost.cloud
 speedtest-ntt-fra.as20011.net
 speedtest-ookla-alpha.giant.net.uk
@@ -565,8 +565,6 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
-speedtest.absolutevalidation.com
-speedtest.absolutevalidation.com.prod.hosts.ooklaserver.net
 speedtest.accessfiber.net
 speedtest.accessfiber.net.prod.hosts.ooklaserver.net
 speedtest.advancedisp.com
@@ -640,8 +638,6 @@ speedtest.den.sharktech.net
 speedtest.den.sharktech.net.prod.hosts.ooklaserver.net
 speedtest.den1.nitelusa.net
 speedtest.den1.nitelusa.net.prod.hosts.ooklaserver.net
-speedtest.denver.intrepidfiber.com
-speedtest.denver.intrepidfiber.com.prod.hosts.ooklaserver.net
 speedtest.desertwinds.net
 speedtest.desertwinds.net.prod.hosts.ooklaserver.net
 speedtest.dfw.fdcservers.net
@@ -711,6 +707,7 @@ speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net
 speedtest.lax2.sonic.net
 speedtest.lcpud.net
 speedtest.lcpud.net.prod.hosts.ooklaserver.net
+speedtest.ld7.fdcservers.net
 speedtest.lhr1.uk.as61049.net
 speedtest.lhr1.uk.as61049.net.prod.hosts.ooklaserver.net
 speedtest.lightsource1.com
@@ -782,8 +779,6 @@ speedtest.pilotfiber.com
 speedtest.pilotfiber.com.prod.hosts.ooklaserver.net
 speedtest.pingless.com
 speedtest.pocketinet.com
-speedtest.quickqc.nl
-speedtest.quickqc.nl.prod.hosts.ooklaserver.net
 speedtest.rackoona.com
 speedtest.respawnhost.com
 speedtest.rfchost.net
@@ -912,8 +907,6 @@ speedtest1-olynwaga.as20055.net
 speedtest1-olynwaga.as20055.net.prod.hosts.ooklaserver.net
 speedtest1-qncywaxx.as20055.net
 speedtest1-qncywaxx.as20055.net.prod.hosts.ooklaserver.net
-speedtest1-sttlwawb.as20055.net
-speedtest1-sttlwawb.as20055.net.prod.hosts.ooklaserver.net
 speedtest1-yakmwafp.as20055.net
 speedtest1-yakmwafp.as20055.net.prod.hosts.ooklaserver.net
 speedtest1.acentek.net
