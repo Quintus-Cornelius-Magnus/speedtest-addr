@@ -397,7 +397,6 @@ speed.hcmed.org.prod.hosts.ooklaserver.net
 speed.kansas.smishcraft.com
 speed.tritan-bb.net
 speed.tritan-bb.net.prod.hosts.ooklaserver.net
-speed.udx.icscoe.jp
 speed.uk.lon.m247.ro
 speed.uk.lon.m247.ro.prod.hosts.ooklaserver.net
 speed06.gonetspeed.com
@@ -509,6 +508,7 @@ speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
 speedtest-nl.hyperfilter.com
 speedtest-nl.hyperfilter.com.prod.hosts.ooklaserver.net
 speedtest-nl.vdsina.ru
+speedtest-nl.webdade.com
 speedtest-nl1.expresshost.cloud
 speedtest-ntt-fra.as20011.net
 speedtest-ookla-alpha.giant.net.uk
@@ -638,6 +638,8 @@ speedtest.den.sharktech.net
 speedtest.den.sharktech.net.prod.hosts.ooklaserver.net
 speedtest.den1.nitelusa.net
 speedtest.den1.nitelusa.net.prod.hosts.ooklaserver.net
+speedtest.denver.intrepidfiber.com
+speedtest.denver.intrepidfiber.com.prod.hosts.ooklaserver.net
 speedtest.desertwinds.net
 speedtest.desertwinds.net.prod.hosts.ooklaserver.net
 speedtest.dfw.fdcservers.net
