@@ -209,6 +209,7 @@ miaspeedtest.blackburn-pr.com
 miaspeedtest.blackburn-pr.com.prod.hosts.ooklaserver.net
 mirror.nforce.com
 mirror.nforce.com.prod.hosts.ooklaserver.net
+mslkwa-ookla1.vyvebroadband.net
 mtcspeedtest.catskill.net
 mtcspeedtest.catskill.net.prod.hosts.ooklaserver.net
 netspeed.empireaccess.com
@@ -415,8 +416,6 @@ speed09.gonetspeed.com
 speed09.gonetspeed.com.prod.hosts.ooklaserver.net
 speed1.airtek.com.ve
 speed1.airtek.com.ve.prod.hosts.ooklaserver.net
-speed1.spitfireuk.net
-speed1.spitfireuk.net.prod.hosts.ooklaserver.net
 speed12.gonetspeed.com
 speed12.gonetspeed.com.prod.hosts.ooklaserver.net
 speedapi.race.com
@@ -441,6 +440,7 @@ speedtest-ams-nl.as215248.net
 speedtest-ams-nl.as215248.net.prod.hosts.ooklaserver.net
 speedtest-ams.melbicom.net
 speedtest-ams.retn.net
+speedtest-ams.retn.net.prod.hosts.ooklaserver.net
 speedtest-ash.vts.bf
 speedtest-ash.vts.bf.prod.hosts.ooklaserver.net
 speedtest-atl.conexonconnect.com
@@ -492,8 +492,6 @@ speedtest-lax.melbicom.net
 speedtest-lax.perfectip.net
 speedtest-lon.krystal.uk
 speedtest-lon.krystal.uk.prod.hosts.ooklaserver.net
-speedtest-lon.retn.net
-speedtest-lon.retn.net.prod.hosts.ooklaserver.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-lon06.vorboss.net.prod.hosts.ooklaserver.net
@@ -505,6 +503,8 @@ speedtest-london.its-tg.net.prod.hosts.ooklaserver.net
 speedtest-mci-01.accuris.ca
 speedtest-mci-01.pdx.net.uk
 speedtest-mci-01.pdx.net.uk.prod.hosts.ooklaserver.net
+speedtest-net-fra.dispaisy.systems
+speedtest-net-fra.dispaisy.systems.prod.hosts.ooklaserver.net
 speedtest-net.mk.de
 speedtest-nl.cloudlease.co.il
 speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
@@ -661,7 +661,6 @@ speedtest.fc-fra4.as51202.net
 speedtest.fc-fra4.as51202.net.prod.hosts.ooklaserver.net
 speedtest.fr8.fdcservers.net
 speedtest.fra.plusnet.de
-speedtest.fra.plusnet.de.prod.hosts.ooklaserver.net
 speedtest.fra1.hivelocity.net
 speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.frankfurt-am-main.valtrix.org
@@ -818,6 +817,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -993,6 +994,9 @@ speedtestus.pvdatanet.com
 speedtestus.pvdatanet.com.prod.hosts.ooklaserver.net
 speedtestvol.optinet.co.uk
 spokane.speedtest.centurylink.net
+spt-lax1.edgeuno.com
+spt-lon1.edgeuno.com
+spt-mia.edgeuno.com
 srv1297868.hstgr.cloud
 srv1297868.hstgr.cloud.prod.hosts.ooklaserver.net
 srv1297897.hstgr.cloud
