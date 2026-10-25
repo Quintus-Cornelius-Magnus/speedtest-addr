@@ -127,7 +127,6 @@ gisho.work.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
 hk1.speedtest.gslnetworks.com
 hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
-hkg.speedtest.lshiy.net
 hkgspeedtest.cmctelecom.vn
 hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net
 hkspeedtest.netvigator.com
@@ -277,6 +276,7 @@ ookla.intracex.de.prod.hosts.ooklaserver.net
 ookla.la.ca.sharktech.net
 ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net
 ookla.ldn.as6453.net
+ookla.lodestarnetworks.co.uk
 ookla.mbspeed.net
 ookla.mci-1.serverforge.org
 ookla.mci-1.serverforge.org.prod.hosts.ooklaserver.net
@@ -284,6 +284,8 @@ ookla.mln.as6453.net
 ookla.mln.as6453.net.prod.hosts.ooklaserver.net
 ookla.n0v.as6453.net
 ookla.n0v.as6453.net.prod.hosts.ooklaserver.net
+ookla.ncwcom.com
+ookla.ncwcom.com.prod.hosts.ooklaserver.net
 ookla.opticaltel.com
 ookla.opticaltel.com.prod.hosts.ooklaserver.net
 ookla.svw.as6453.net
@@ -501,8 +503,6 @@ speedtest-london.its-tg.net.prod.hosts.ooklaserver.net
 speedtest-mci-01.accuris.ca
 speedtest-mci-01.pdx.net.uk
 speedtest-mci-01.pdx.net.uk.prod.hosts.ooklaserver.net
-speedtest-net-fra.dispaisy.systems
-speedtest-net-fra.dispaisy.systems.prod.hosts.ooklaserver.net
 speedtest-net.mk.de
 speedtest-nl.cloudlease.co.il
 speedtest-nl.cloudlease.co.il.prod.hosts.ooklaserver.net
@@ -814,6 +814,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -1064,3 +1066,5 @@ us-lax02.speed.misaka.one
 us-sjc10.speed.misaka.one
 vaspeedtest.rackdog.com
 vaspeedtest.rackdog.com.prod.hosts.ooklaserver.net
+wellington-speedtest.connectwithusa.com
+wellington-speedtest.connectwithusa.com.prod.hosts.ooklaserver.net
