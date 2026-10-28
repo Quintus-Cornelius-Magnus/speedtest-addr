@@ -127,6 +127,7 @@ gisho.work.prod.hosts.ooklaserver.net
 hk-hkg12.speed.misaka.one
 hk1.speedtest.gslnetworks.com
 hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
+hkg.speedtest.lshiy.net
 hkgspeedtest.cmctelecom.vn
 hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net
 hkspeedtest.netvigator.com
@@ -277,7 +278,6 @@ ookla.la.ca.sharktech.net
 ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net
 ookla.ldn.as6453.net
 ookla.lodestarnetworks.co.uk
-ookla.mbspeed.net
 ookla.mci-1.serverforge.org
 ookla.mci-1.serverforge.org.prod.hosts.ooklaserver.net
 ookla.mln.as6453.net
@@ -293,7 +293,6 @@ ookla.svw.as6453.net.prod.hosts.ooklaserver.net
 ookla.unwiredltd.com
 ookla.unwiredltd.com.prod.hosts.ooklaserver.net
 ookla1.the.net.1310.io
-ookla2.mbspeed.net
 ooklaserver.fdwy.nobullnetworks.net
 ooklaserver.fdwy.nobullnetworks.net.prod.hosts.ooklaserver.net
 ord-cos1-ookla-1.99.network
@@ -306,6 +305,10 @@ pdxpo0001speedtestserver01.wiline.com
 pdxpo0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
 perf-01.ixn.as42689.net
 perf-01.ixn.as42689.net.prod.hosts.ooklaserver.net
+phl01.screenshot.download
+phl01.screenshot.download.prod.hosts.ooklaserver.net
+phlph0001speedtestserver02.wiline.com
+phlph0001speedtestserver02.wiline.com.prod.hosts.ooklaserver.net
 phoenix.speedtest.centurylink.net
 phoenix1.cabospeed.com
 phoenixim-speedtest.commnetbroadband.com
@@ -659,7 +662,6 @@ speedtest.fc-fra4.as51202.net
 speedtest.fc-fra4.as51202.net.prod.hosts.ooklaserver.net
 speedtest.fr8.fdcservers.net
 speedtest.fra.plusnet.de
-speedtest.fra.plusnet.de.prod.hosts.ooklaserver.net
 speedtest.fra1.hivelocity.net
 speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net
 speedtest.frankfurt-am-main.valtrix.org
@@ -714,6 +716,8 @@ speedtest.lhr1.uk.as61049.net.prod.hosts.ooklaserver.net
 speedtest.lightsource1.com
 speedtest.lsnetworks.net
 speedtest.lsnetworks.net.prod.hosts.ooklaserver.net
+speedtest.massivemesh.com
+speedtest.massivemesh.com.prod.hosts.ooklaserver.net
 speedtest.masteritsupport.com
 speedtest.mci.as1003.net
 speedtest.mci.as1003.net.prod.hosts.ooklaserver.net
@@ -762,6 +766,8 @@ speedtest.oceansls.com.prod.hosts.ooklaserver.net
 speedtest.octaplus.uk
 speedtest.ord1.hivelocity.net
 speedtest.ord1.hivelocity.net.prod.hosts.ooklaserver.net
+speedtest.philasd.org
+speedtest.philasd.org.prod.hosts.ooklaserver.net
 speedtest.phnxaz19.metronetinc.com
 speedtest.phnxaz19.metronetinc.com.prod.hosts.ooklaserver.net
 speedtest.phoenix.xiber.net
@@ -811,6 +817,8 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -952,6 +960,7 @@ speedtest21.hkbn.net.prod.hosts.ooklaserver.net
 speedtest3.dacor.de
 speedtest5.fybercom.net
 speedtest5.fybercom.net.prod.hosts.ooklaserver.net
+speedtest9200.sea.acsalaska.net
 speedtestatl.gethotwired.com
 speedtestatl.gethotwired.com.prod.hosts.ooklaserver.net
 speedtestbb.hk.chinamobile.com
