@@ -382,7 +382,6 @@ sp1-de.delska.com.prod.hosts.ooklaserver.net
 sp1-nl.delska.com
 sp1-nl.delska.com.prod.hosts.ooklaserver.net
 sp1.aerux.com
-sp1.aerux.com.prod.hosts.ooklaserver.net
 sp1.burstfire.net
 sp1.burstfire.net.prod.hosts.ooklaserver.net
 sp1.campanaworks.com
@@ -448,6 +447,7 @@ speedtest-albany.greenlightnetworks.com.prod.hosts.ooklaserver.net
 speedtest-ams-nl.as215248.net
 speedtest-ams-nl.as215248.net.prod.hosts.ooklaserver.net
 speedtest-ams.melbicom.net
+speedtest-ams.retn.net
 speedtest-ash.vts.bf
 speedtest-ash.vts.bf.prod.hosts.ooklaserver.net
 speedtest-atl.conexonconnect.com
@@ -574,7 +574,7 @@ speedtest.5x5tele.com
 speedtest.5x5tele.com.prod.hosts.ooklaserver.net
 speedtest.603.sbaedge.net
 speedtest.603.sbaedge.net.prod.hosts.ooklaserver.net
-speedtest.absolutevalidation.com
+speedtest.accessfiber.net
 speedtest.advancedisp.com
 speedtest.advancedisp.com.prod.hosts.ooklaserver.net
 speedtest.ams.fdcservers.net
@@ -753,6 +753,8 @@ speedtest.nik.fiber.nl.prod.hosts.ooklaserver.net
 speedtest.nikhef.qonnected.net
 speedtest.nikhef.qonnected.net.prod.hosts.ooklaserver.net
 speedtest.nl.novoserve.com
+speedtest.nocix.net
+speedtest.nocix.net.prod.hosts.ooklaserver.net
 speedtest.nopdatacenters.com
 speedtest.nopdatacenters.com.prod.hosts.ooklaserver.net
 speedtest.nu-z.net
@@ -813,8 +815,6 @@ speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.surfshark.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
-speedtest.thn.uk.syntura.io
-speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -878,6 +878,7 @@ speedtest01.srv.asbnva.alticeusa.net.prod.hosts.ooklaserver.net
 speedtest01.srv.chcgil.alticeusa.net
 speedtest01.srv.chcgil.alticeusa.net.prod.hosts.ooklaserver.net
 speedtest01.srv.dllstx.alticeusa.net
+speedtest01.srv.dllstx.alticeusa.net.prod.hosts.ooklaserver.net
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest01.srv.hcvlny.alticeusa.net.prod.hosts.ooklaserver.net
 speedtest01.srv.phnxaz.alticeusa.net
