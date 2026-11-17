@@ -138,11 +138,12 @@ lasvegas-speedtest.commnetbroadband.com.prod.hosts.ooklaserver.net
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net
-laxlaser1.lax2-hivelocity.edgerouter.speedtest.42u.network
 lon.host.speedtest.net
 lon.host.speedtest.net.prod.hosts.ooklaserver.net
 lon.speedtest.clouvider.net
 lon.speedtest.clouvider.net.prod.hosts.ooklaserver.net
+londres.speedtest.angolacables.co.ao
+londres.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net
 los-angeles-speedtest.reliablesite.net
 los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net
 losangeles.ca.speedtest.frontier.com
@@ -152,6 +153,7 @@ lv-ookla.geolinks.com
 m1speedtest1.m1net.com.sg
 mci-1.speedtest.ozarksgo.net
 mci-1.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net
+mdfdor-speedtest-ookla-01.st.charter.com
 mirror.nforce.com
 mirror.nforce.com.prod.hosts.ooklaserver.net
 nkf-ams.speedtest.royalehosting.net
@@ -286,9 +288,6 @@ sp1.campanaworks.com
 sp1.campanaworks.com.prod.hosts.ooklaserver.net
 sp1.jump.net.uk
 sp1.jump.net.uk.prod.hosts.ooklaserver.net
-sp1.npbnl.net
-sp3.atcc-gns.net
-sp3.atcc-gns.net.prod.hosts.ooklaserver.net
 spd-phnhazva.wyyerd.io
 spd01-monr-ca.gigglefiber.com
 spd01-monr-ca.gigglefiber.com.prod.hosts.ooklaserver.net
@@ -386,8 +385,6 @@ speedtest-ntt-fra.as20011.net
 speedtest-ookla-alpha.giant.net.uk
 speedtest-phoenix.resoundnetworks.com
 speedtest-phoenix.resoundnetworks.com.prod.hosts.ooklaserver.net
-speedtest-salm.hunterfiber.com
-speedtest-salm.hunterfiber.com.prod.hosts.ooklaserver.net
 speedtest-seattle.ripplefiber.com
 speedtest-seattle.ripplefiber.com.prod.hosts.ooklaserver.net
 speedtest-server-den.starry.com
@@ -496,8 +493,6 @@ speedtest.frankfurt-am-main.valtrix.org
 speedtest.gilarivertel.com
 speedtest.global-layer.com
 speedtest.global-layer.com.prod.hosts.ooklaserver.net
-speedtest.gohilight.com
-speedtest.gohilight.com.prod.hosts.ooklaserver.net
 speedtest.herza.cloud
 speedtest.hk.chinamobile.com
 speedtest.hkg.fdcservers.net
@@ -537,7 +532,6 @@ speedtest.mci.as1003.net.prod.hosts.ooklaserver.net
 speedtest.me.mycci.net
 speedtest.meerfarbig.net
 speedtest.meerfarbig.net.prod.hosts.ooklaserver.net
-speedtest.mereofiber.com
 speedtest.minneapolis.intrepidfiber.com
 speedtest.miriquidi-net.works
 speedtest.miriquidi-net.works.prod.hosts.ooklaserver.net
@@ -583,7 +577,6 @@ speedtest.sea.accretive-networks.net
 speedtest.sea.accretive-networks.net.prod.hosts.ooklaserver.net
 speedtest.sea.fdcservers.net
 speedtest.sg.aixxycode.id
-speedtest.sg.aixxycode.id.prod.hosts.ooklaserver.net
 speedtest.sg.fdcservers.net
 speedtest.singapore.globalxtreme.net
 speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net
@@ -594,11 +587,12 @@ speedtest.softether.co.jp
 speedtest.spectrumvoip.com
 speedtest.spectrumvoip.com.prod.hosts.ooklaserver.net
 speedtest.sptel.com
-speedtest.sptel.com.prod.hosts.ooklaserver.net
 speedtest.summithq.com
 speedtest.summithq.com.prod.hosts.ooklaserver.net
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.lon.network.as201838.net.prod.hosts.ooklaserver.net
+speedtest.thn.uk.syntura.io
+speedtest.thn.uk.syntura.io.prod.hosts.ooklaserver.net
 speedtest.three.com.hk
 speedtest.tier2squared.com
 speedtest.tier2squared.com.prod.hosts.ooklaserver.net
@@ -725,6 +719,8 @@ st0.dal.tularosa.net
 st0.dal.tularosa.net.prod.hosts.ooklaserver.net
 st01.fynncloud.net
 st01.fynncloud.net.prod.hosts.ooklaserver.net
+st1.hunterfiber.com
+st1.hunterfiber.com.prod.hosts.ooklaserver.net
 st1.tzulo.com
 st2.octopustelecom.co.uk
 st2.octopustelecom.co.uk.prod.hosts.ooklaserver.net
